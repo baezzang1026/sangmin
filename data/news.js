@@ -1,38 +1,12 @@
 window.NEWS = {
-  "updated": "2026-11-16T14:37:34+09:00",
+  "updated": "2026-11-16T14:43:38+09:00",
   "domestic": [
     {
-      "title": "교육부 \"스마트안경 전담 인력 시험장마다 배치…시험 연기 없다\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMXVXazZjOTJZREJ1VzQtUV9HSHduRjB3VzhKSDBmN0hNdnUzRExUanJoU0V3VXF0cG9QVE5IYVJYY2VidU95N2otYXdETkNRTjZnV1k3LWFWelFZ?oc=5",
-      "summary": "(",
-      "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111602630001300_P2.jpg",
-      "date": "2026-11-16T03:12:00+00:00",
-      "source": "뉴스핌",
-      "related": [
-        {
-          "title": "교육부 \"초소형 카메라도 철저히 감독‥수능 연기는 검토 안 해\"",
-          "source": "MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzTXphOEt6MjQtRVJKQVZYU0xaQnlyeGpmcVBVZlNfNnlkRlZTd3AxOGs1eFg0UGpwTlp0UF9hRHY2RG9XOU9yZi1CSkhILTFnSzl2ejd3dXdzNUhkUnI0MVNKOEVvYldnU0x4Mk9iZVlPamJXR1Nz0gF3QVVfeXFMTXRscHprOS1XT2NSZmxPVGlpc3MyalNJUHNZeGI5Q3U1bDNIbFV5SElXd1NvVF9ZTm5kam5Ea29JbEs0MkhJZERDRmVjcnVPNFpoREpzUUswVzdtSzM5ZjlpQ1cxdUFPNkNyTXdTUnRBMTdBRU5Ia3M?oc=5"
-        },
-        {
-          "title": "[속보] 韓총리 \"세무사 부정행위, 무효·응시자격 정지 신속히\"",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWV9ubXhUR29qczRWSjJXTTZxZTM0SjQ2bzNIcGtXUGVySDFibmJ5MkpIUWxUTXRkb3NqMnNDeUh2dGVZMlVqcUdVczRQNGlVcUswOTQ0NDJ5anfSAWBBVV95cUxNWlNTY1AyOW12UEtNZWZZQlY0OTlxcERjMm5mWW51SEdQeWlOWGlZeERnMXNhT2NlQXVWT20zeDlkUmRaLUxYdk9odFlabzFJX0N6eFR0S2wtWnB3emdKLW4?oc=5"
-        },
-        {
-          "title": "교육부 \"수능때 통신 차단 협의해 추진\"",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZqclB4TGRNMWdjZ3BCUjh0TURBSWRkZkN1b1hqNmdOdGtTaFlFUVM4djVwemU4SGxWcDNKWHRpUE44UkRnVGNPcE5WQlRVd1hTak1mUEI4elBLazlJNGVzYmhMamJtQkxMZVMtZjNfZFk2aGppbnRRaVR2a2EwR1JhMjN0bEk?oc=5"
-        }
-      ],
-      "summary_source": "연합뉴스"
-    },
-    {
-      "title": "대법원, 19일 한덕수 내란중요임무종사 혐의 선고…김건희 선고도 같은 날",
+      "title": "[속보] 대법원, 19일 한덕수 내란중요임무종사 혐의 선고…김건희 선고도 같은 날",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CSmdOeEU1bE51NV81ckRJZUNmUXNEbVY3U2NKNjhPUHhickduX21uem5LNTh2MVNwUG0zNG1PdXpoSGRyS1RXODdTUDhwdER4c0ZJT3R4dUNmQVQwQ2JKMDBYbjE2eDBYQTgzUjNJcG93dw?oc=5",
       "summary": "대법원 전원합의체가 19일 한덕수 전 국무총리의 내란 사건 상고심 판결을 선고한다. 항소심에서 징역 15년을 선고받은 한 전 총리의 구속기간 만료를 하루 앞둔 날이다. 명태균씨 여론조사 무상 수수·도이치모터스 주가조작·통일교 금품 수수 등 혐의로 항소심에서 징역 4년을 선고받은 김건희 여사도 같은 날 전원합의체 선고를 받는다.",
       "image": "https://www.chosun.com/resizer/v2/ZOAGOI5TPVFVHDQRM5LLF6JJQM.JPG?auth=4abfc1af6c744c03e8e805ab7c764bda538da885a23c482fea6cea9abf1e6176&smart=true&width=1459&height=821",
-      "date": "2026-11-16T01:23:00+00:00",
+      "date": "2026-11-16T02:48:00+00:00",
       "source": "한겨레",
       "related": [
         {
@@ -54,13 +28,69 @@ window.NEWS = {
       "summary_source": "조선일보"
     },
     {
-      "title": "부산서 일면식도 없는 10대에 흉기 휘두른 20대 남성 구속",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14QWI1NVVGdkFRUENGYnFXZ0sxQVZrT2FFdlVfSXJrYTdyay1NeHRBMk92MTNUbmVueXh2MkdqUUVmVmMxd0oxRUJhNFRnMkZ3YlZ3MXQ2d09DQ3ll?oc=5",
-      "summary": "부산에서 처음 본 10대 여성을 흉기로 찌른 20대가 구속됐다. 피의자는 범행 도구를 사전에 준비했으며, 정신 질환을 앓고 있는 것으로 전해졌다.",
-      "image": "https://www.chosun.com/resizer/v2/N7HAQT6GONEHJIFM5RW4PCYYQ4.png?auth=8b48ca0aa14725a99ef29923bb111ac782a31390a78b7405e725a22d619acf43&smart=true&width=562&height=288",
-      "date": "2026-11-16T01:01:00+00:00",
-      "source": "뉴스핌",
+      "title": "교육부 “수능 연기 없다…초소형 카메라 대책 마련할 것”",
+      "link": "https://www.donga.com/news/Society/article/all/20261116/135031133/1",
+      "summary": "2027학년도 대학수학능력시험을 앞두고 인공지능(AI) 기기를 활용한 부정행위 우려가 커지고 있지만, 교육부는 16일 “수능 연기는 없다”고 못 박았다. 스마트 안경은 외형적 특징을 통해 식별할 수 있고, 최근 세무사 시험에서 문제가 된 초소형 카메라 역시 외형과 행동 특성을 파악해 감독관의 적발 역량을 높이겠다는 방침이다. 교육부는 또 추가 대응 매뉴얼을 마련해 17일 발표하겠다고…",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/16/135031139.1.jpg",
+      "date": "2026-11-16T03:09:00+00:00",
+      "source": "동아일보",
       "related": [
+        {
+          "title": "교육부 \"초소형 카메라도 철저히 감독‥수능 연기는 검토 안 해\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzTXphOEt6MjQtRVJKQVZYU0xaQnlyeGpmcVBVZlNfNnlkRlZTd3AxOGs1eFg0UGpwTlp0UF9hRHY2RG9XOU9yZi1CSkhILTFnSzl2ejd3dXdzNUhkUnI0MVNKOEVvYldnU0x4Mk9iZVlPamJXR1Nz0gF3QVVfeXFMTXRscHprOS1XT2NSZmxPVGlpc3MyalNJUHNZeGI5Q3U1bDNIbFV5SElXd1NvVF9ZTm5kam5Ea29JbEs0MkhJZERDRmVjcnVPNFpoREpzUUswVzdtSzM5ZjlpQ1cxdUFPNkNyTXdTUnRBMTdBRU5Ia3M?oc=5"
+        },
+        {
+          "title": "[속보] 韓총리 \"세무사 부정행위, 무효·응시자격 정지 신속히\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LWV9ubXhUR29qczRWSjJXTTZxZTM0SjQ2bzNIcGtXUGVySDFibmJ5MkpIUWxUTXRkb3NqMnNDeUh2dGVZMlVqcUdVczRQNGlVcUswOTQ0NDJ5anfSAWBBVV95cUxNWlNTY1AyOW12UEtNZWZZQlY0OTlxcERjMm5mWW51SEdQeWlOWGlZeERnMXNhT2NlQXVWT20zeDlkUmRaLUxYdk9odFlabzFJX0N6eFR0S2wtWnB3emdKLW4?oc=5"
+        },
+        {
+          "title": "교육부 \"수능때 통신 차단 협의해 추진\"",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZqclB4TGRNMWdjZ3BCUjh0TURBSWRkZkN1b1hqNmdOdGtTaFlFUVM4djVwemU4SGxWcDNKWHRpUE44UkRnVGNPcE5WQlRVd1hTak1mUEI4elBLazlJNGVzYmhMamJtQkxMZVMtZjNfZFk2aGppbnRRaVR2a2EwR1JhMjN0bEk?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "조정식 “헌법개정자문위 공동위원장에 김형오·정세균 임명”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFeV8yTmdFbGFlSW1xNjhVM3lBLUZKMi1pMW5pNF9pallMQ0VVUVFzOEM0dHgzS1lhQl8xWkxpZzFYZkRSNGVLMkFNMnUzUVpFam1tN0ZsQzhwRWI0QXZlNDQ5VW5XMmZxS0J5S3JScmJPV1Q5?oc=5",
+      "summary": "조정식 국회의장이 16일 의장 직속의 헌법개정자문위원회를 출범하고 공동위원장에 김형오‧정세균 전 국회의장을 위촉했다.",
+      "image": "https://www.chosun.com/resizer/v2/W7PZC7XU4ZFSNKFHDYG5TWJOA4.jpg?auth=4e9be7a61c41ab29a1c101de5e8b2cab35394c409417e3d0b68fd700413cf3df&smart=true&width=5544&height=3832",
+      "date": "2026-11-16T02:36:00+00:00",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "정점식 \"이 정부서 개헌 없다‥조정식 사퇴하라\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGTUJBZ1RIeFZ1bGpkRlNWbk9zOXVpSC1iOFdLM0JWWDF3Wi04TzFFVW82RUlZc0Yzci1sc0VxOENnZnRhU3pWbkl4MnpLYzRPa1BYTy1kc0hxQ0laYkRKc3JRYzk1ZjFSaFYzQl9MV3QyQmVVRkR1aNIBeEFVX3lxTE1KVWc5VVJ0QWpBVzljaDEyQ21SNk5PS2h2MlpDWnUtWEZmMUFrWm9BN3daR0JvcFdJSDctWWctMlFuTzdBWmkwMVdqVVpEcDZ2T2lBQ1IwVWQtZ0JDVWlNbUFqZWxFT1J2S2hOdlRfSHBjUU5IeWdYSA?oc=5"
+        },
+        {
+          "title": "국민의힘 \"국회의장 개헌론, 국면 전환용…이번 정부서 개헌 없다\"",
+          "source": "news.sbs.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXktUWIxeHc1VzRITjZXc0JyaWNGc1VWQXcwQzFMYnlxUTAzdUxZckI3Y0YzOE54V2VHRl9RajRGaG05Z3BNLUhzRVhYN1V0aE5yMXhFd2VzcE5LQVlBel9pT01kYm5tZWlUdUk0SUpTeDZjM2dFNzhxY0otWi0tYkNZV2hrQQ?oc=5"
+        },
+        {
+          "title": "헌법개정자문위원장에 김형오·정세균…조정식 “대통령 연임 개헌 문제 종결”",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JaTJsYUZYOHJIcHppY1VjQS12Qmx5WXh0Q2pRYzNGR0Y3aHNEam5STW5HbUdTdEJZTTZDZFVVOHZuV3hPZjRNaEZnREZfc3VJWkFLQTY0NGZZZ9IBX0FVX3lxTE5NeXlZX05IWDRCTjVzS3p1bzVpM25uNEdPcUVsRUZKaVhnbmtWaThSeWx3a1V1YWV4ZGpfWk9nS0o4S2V6eFpDWWpfazdpZmFvNW1yaDdMRUhWSnM1cDVR?oc=5"
+        }
+      ],
+      "summary_source": "조선일보"
+    },
+    {
+      "title": "“흉기 미리 준비했다”···부산서 10대 여성 공격한 20대, 계획 범죄 정황",
+      "link": "https://www.khan.co.kr/article/202611161215001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "서울 서대문구 경찰청 마크 . 김창길기자부산 도심지에서 일면식도 없는 10대 여성을 흉기로 찌른 20대 A씨가 경찰 조사에서 범행 도구를 미리 준비한 것으로 조사됐다.16일 부산 금정경찰서에 따르면 살인미수 혐의로 구속된 A씨는 경찰 조사에서 “흉기를 사전에 준비했다”는 취지로 진술했다.A씨는 지난 13일 오후 4시35분쯤 금정구 도시철도 구서역(1호선) ···",
+      "image": "https://img.khan.co.kr/news/2026/11/16/news-p.v1.20220627.bbc6093f1aa24828870dcb50d7040579_P1.jpeg",
+      "date": "2026-11-16T03:15:00+00:00",
+      "source": "경향신문",
+      "related": [
+        {
+          "title": "부산서 모르는 10대 여성에 흉기 휘두른 20대 체포",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUVk93bE9LeHpNTzl6Sm82eS0wSFZMRmpEQ3NGa0ZQTGhVTjJFejhjVTJMT2VxNWhMRzFlazVPaUZoTU83QVl0RzI5NkVDLVlMVXlpSVdTYmVuZ9IBX0FVX3lxTE83encybXBPZE1meUxTZHk2aFp5dnowRE5VRGMtQ0ZWTmUzTlZTdUo4RnNGbklrbzhfYk5xeEJBMVRsN1I3V1dYdEtuTWpVSVBKWlE2SUN3Vk54SWI4RVhJ?oc=5"
+        },
         {
           "title": "모르는 10대 여성 찌른 20대 구속…\"살해하려 흉기 미리 준비\"",
           "source": "연합뉴스",
@@ -70,14 +100,8 @@ window.NEWS = {
           "title": "일면식도 없는 여성에 흉기 휘둘러…20대 남성 체포",
           "source": "KBS 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92OThQdWhyby0yeXpNNEx5dlozNXJrQWVMYkFqY09QVDhkUFM4Ny1PdzR4OHJ6bnEwTmotVVNTbGNyaTZCNlZRYmF5c19pdVNHVlh0NUpPZ1FQQ2c?oc=5"
-        },
-        {
-          "title": "부산서 모르는 10대 소녀 흉기로 찌른 20대 男 구속",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSEZoeTNFTUI2RFM3ckZ5cGpGR2lVRnlHdHpNaTRqOXQyMFhRZW0yTkRINElQNWkzR2NSWGZSdGROU2ZaWFdCN3pTNWVndjlBcFdfWm9Rcll6djJSQ3RCUW0zZFRnakVqaElDX1pucVlub2xpRzNkSGNnbEdfNHlyMWFKZkthUQ?oc=5"
         }
-      ],
-      "summary_source": "조선일보"
+      ]
     },
     {
       "title": "APBC 결승 일본에 완패, 한일전 14경기 연속 무승",
@@ -106,11 +130,11 @@ window.NEWS = {
       "summary_source": "조선일보"
     },
     {
-      "title": "교육부 \"수능 연기 없다…초소형 카메라 감독 방안 검토 중\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847768&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 스마트안경 부정행위 시연하는 신진용 교육부 대입정책과장세무사 시험 수석 합격자의 AI 활용한 부정행위가 논란을 일으킨 가운데, 교…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261116/202241308.jpg",
-      "date": "2026-11-16T13:58:00+09:00",
+      "title": "[단독] \"모니터 보면서 답 확인\"…AI 안경도 이어폰도 아니었다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008847955&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "AI를 활용한 세무사 시험 부정행위를 시인하고 경찰에 자수한 수석 합격자 한 모 씨가 모니터를 활용해 부정행위를 한 것으로 확인됐습니다.경찰은 …",
+      "image": "https://img.sbs.co.kr/newimg/news/20261116/202241290.jpg",
+      "date": "2026-11-16T14:37:00+09:00",
       "source": "SBS 뉴스"
     },
     {
@@ -215,14 +239,6 @@ window.NEWS = {
       "summary": "최근 K팝 무대에선 15살 안팎의 청소년 아이돌을 쉽게 볼 수 있습니다. 여러 보호장치에도 불구하고, 잠은 제대로 자는지, 잘 쉬는지 같은 우려가 끊이지 않자, 정부가 처음으로 대대적인 실태조사에 나섭니다.김경희 기자의 단독보도입니다.",
       "image": "https://img.sbs.co.kr/newimg/news/20261115/202241113.jpg",
       "date": "2026-11-16T10:28:00+09:00",
-      "source": "SBS 뉴스"
-    },
-    {
-      "title": "\"월 1억 번다더니 환불도 안 돼\"…부업 강의 피해 '눈덩이'",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846762&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "\"하루 몇 시간만 투자하면 큰돈 벌 수 있다\", 요즘 유튜브에서 흔히 볼 수 있는 '부업 강의' 광고입니다. 그런데 이런 광고 보고 몇백만 원씩 냈다가 원하는 강의 듣지도 못하고, 환불까지 제대로 못 받는 피해가 속출하고 있습니다.박세원 기자가 취재했습니다.",
-      "image": "https://img.sbs.co.kr/newimg/news/20261115/202241109.jpg",
-      "date": "2026-11-16T09:30:00+09:00",
       "source": "SBS 뉴스"
     }
   ],
