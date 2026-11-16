@@ -1,12 +1,16 @@
-name: 아침신보 발행
+name: 건국일보 발행
 
 on:
   schedule:
-    - cron: "0 23 * * *"   # 매일 23:00 UTC = 한국시간 오전 8시
+    - cron: "0 23 * * *"   # 매일 23:00 UTC = 한국시간 오전 8시 (GitHub 사정으로 몇십 분 늦어질 수 있음)
   workflow_dispatch:        # Actions 탭에서 수동 발행
+  push:
+    branches: [main]        # 코드를 올리면 사이트만 다시 배포
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: morning-edition
@@ -15,22 +19,42 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
+        if: github.event_name != 'push'
         with:
           python-version: "3.12"
 
       - name: 뉴스 수집
+        if: github.event_name != 'push'
         env:
           TZ: Asia/Seoul
         run: python fetch_news.py
 
       - name: 새 호 커밋
+        if: github.event_name != 'push'
         run: |
           git config user.name "morning-edition-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.js data/news.json
-          git diff --cached --quiet || git commit -m "아침신보 $(TZ=Asia/Seoul date +%Y-%m-%d) 발행"
+          git diff --cached --quiet || git commit -m "건국일보 $(TZ=Asia/Seoul date +%Y-%m-%d) 발행"
+          git pull --rebase -X theirs || true
           git push
+
+      - name: 사이트 파일 모으기
+        run: |
+          mkdir -p _site/data
+          cp index.html style.css app.js weather.js .nojekyll _site/
+          cp data/news.js data/news.json _site/data/
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4

@@ -18,8 +18,8 @@ BASE = Path(__file__).resolve().parent
 DATA = BASE / "data"
 LOG = DATA / "fetch.log"
 
-DOMESTIC_COUNT = 7       # 국내 기사 수 (첫 기사는 1면 머리기사)
-INTERNATIONAL_COUNT = 6  # 해외 기사 수
+DOMESTIC_COUNT = 19      # 국내 기사 수 (첫 기사는 1면 머리기사, 나머지는 넘겨보는 작은 기사)
+INTERNATIONAL_COUNT = 19  # 해외 기사 수 (첫 기사는 해외 머리기사)
 
 # 국내 '대표' 기사 순위: 구글 뉴스 한국판 주요 뉴스
 GOOGLE_KR = "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko"
@@ -32,6 +32,9 @@ DOMESTIC = [
     ("한겨레", "https://www.hani.co.kr/rss/"),
     ("경향신문", "https://www.khan.co.kr/rss/rssdata/total_news.xml"),
 ]
+# 편집자가 고른 헤드라인 (사진 포함) — 사진 보강 및 부족분 채우기용
+HEADLINE = ("SBS 뉴스", "https://news.sbs.co.kr/news/headlineRssFeed.do?plink=RSSREADER")
+
 INTERNATIONAL = [
     ("BBC", "https://feeds.bbci.co.uk/news/world/rss.xml"),
     ("New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"),
@@ -78,6 +81,11 @@ def find_image(item, raw_desc):
     return m.group(1) if m else ""
 
 
+def bigger(url):
+    """작은 썸네일 주소를 큰 사진 주소로 바꾼다 (BBC)."""
+    return re.sub(r"/standard/\d+/", "/standard/800/", url or "")
+
+
 def parse_date(text):
     if not text:
         return ""
@@ -112,36 +120,62 @@ def fetch(source, url, limit=8):
             "title": title,
             "link": link.strip(),
             "summary": clean(raw, 220),
-            "image": find_image(it, raw),
+            "image": bigger(find_image(it, raw)),
             "date": date,
             "source": source,
         })
     return out
 
 
+def og_image(url):
+    """기사 원문 페이지의 대표 이미지(og:image)를 찾는다."""
+    if not url or "news.google.com" in url:
+        return ""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (NewsDigest)"})
+        with urllib.request.urlopen(req, timeout=8) as r:
+            page = r.read(400_000).decode("utf-8", "ignore")
+    except Exception:
+        return ""
+    for pat in (r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]*content=["\']([^"\']+)',
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*(?:property|name)=["\'](?:og:image|twitter:image)["\']'):
+        m = re.search(pat, page, re.I)
+        if m:
+            return html.unescape(m.group(1))
+    return ""
+
+
+def with_photos(candidates, count):
+    """사진이 없으면 원문에서 찾아보고, 끝내 사진이 없는 기사는 뒤로 미룬다."""
+    chosen = []
+    for a in candidates:
+        if len(chosen) >= count:
+            break
+        if not a["image"]:
+            a["image"] = og_image(a["link"])
+        if a["image"]:
+            chosen.append(a)
+    return chosen
+
+
 def pick(sources, count):
-    """각 언론사의 상위 기사를 번갈아 골라 고르게 섞는다."""
+    """각 언론사의 상위 기사를 번갈아 골라 고르게 섞는다 (사진 있는 기사만)."""
     pools = []
     for name, url in sources:
         try:
-            pools.append(fetch(name, url))
+            pools.append(fetch(name, url, limit=15))
         except Exception as e:
             log(f"실패: {name} ({e})")
-    chosen, seen = [], set()
+    ordered, seen = [], set()
     depth = max((len(p) for p in pools), default=0)
     for i in range(depth):
         for pool in pools:
-            if i < len(pool) and len(chosen) < count:
+            if i < len(pool):
                 key = re.sub(r"\W", "", pool[i]["title"])[:30]
                 if key not in seen:
                     seen.add(key)
-                    chosen.append(pool[i])
-    # 머리기사는 사진이 있는 기사를 우선
-    for idx, a in enumerate(chosen[:4]):
-        if a["image"]:
-            chosen.insert(0, chosen.pop(idx))
-            break
-    return chosen
+                    ordered.append(pool[i])
+    return with_photos(ordered, count)
 
 
 def norm(title):
@@ -164,7 +198,7 @@ def fetch_google_top(count):
         root = ET.fromstring(r.read())
 
     lookup = {}
-    for name, url in DOMESTIC:
+    for name, url in DOMESTIC + [HEADLINE]:
         try:
             for a in fetch(name, url, limit=60):
                 lookup.setdefault(norm(a["title"]), a)
@@ -216,7 +250,22 @@ def fetch_google_top(count):
             if match:
                 art.update(summary=match["summary"], image=match["image"],
                            summary_source=match["source"])
-        out.append(art)
+        if not art["image"]:
+            art["image"] = og_image(art["link"])
+        if art["image"]:  # 모든 기사에 사진이 붙도록 사진 있는 기사만 싣는다
+            out.append(art)
+
+    # 모자라면 SBS 헤드라인(편집자가 고른 주요 뉴스)으로 채운다
+    if len(out) < count:
+        try:
+            for a in with_photos(fetch(*HEADLINE, limit=20), count):
+                k = norm(a["title"])
+                if len(out) < count and k not in seen and all(
+                        similarity(a["title"], o["title"]) < 0.2 for o in out):
+                    seen.add(k)
+                    out.append(a)
+        except Exception as e:
+            log(f"실패: SBS 헤드라인 ({e})")
 
     # 1면 머리기사는 요약이 있는 기사를 우선
     for idx, a in enumerate(out[:4]):
