@@ -1,0 +1,235 @@
+window.NEWS = {
+  "updated": "2026-11-16T14:13:22+09:00",
+  "domestic": [
+    {
+      "title": "최교진 교육장관 “시험장용 전파탐지기, 내년 수능 때 도입 검토”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jSTZYYlFZM3dhX2ZYNG10VHpJTTI1UFpBRV9ESWVNdmd6MTFVVXk2UU5MV2VCb1lOSTdtOThuOC1MR0RkdHVRWG5JUWRJQnItaDAzLXhNWFNqdHdkYWVBbmtlQkl4NDJ1U0E?oc=5",
+      "summary": "교육부와 과학기술정보통신부가 오는 19일 대학수학능력시험(수능)에서 인공지능(AI) 기기 등을 활용한 부정행위를 막기 위해 시험 시간 중 통신을 차단하는 방안을 협의하고 있다.",
+      "image": "https://www.chosun.com/resizer/v2/A3N63C3TNFJ3LM5NMMEZNWW3QQ.jpg?auth=037abcb5714be831a5144c3c2e30b42e083e75c0ecfdf1b44606a03e4c280582&smart=true&width=5496&height=3664",
+      "date": "2026-11-16T01:04:00+00:00",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "교육부 \"수능때 통신 차단 협의해 추진\"",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZqclB4TGRNMWdjZ3BCUjh0TURBSWRkZkN1b1hqNmdOdGtTaFlFUVM4djVwemU4SGxWcDNKWHRpUE44UkRnVGNPcE5WQlRVd1hTak1mUEI4elBLazlJNGVzYmhMamJtQkxMZVMtZjNfZFk2aGppbnRRaVR2a2EwR1JhMjN0bEk?oc=5"
+        },
+        {
+          "title": "교육부, AI 부정행위 대책 17일 발표…시험장 통신 차단 검토",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80TjhCME5iS1QzS3B5bjgydUtmYmNrbldQNHNaZnhONGE2ZXRVdE5ZY0g2U1NFUVVCN3VWU0RMYURDUTdWbmxUZ0U3R0Q5WFp4eDRYZ1FLQ0s5d9IBX0FVX3lxTE1Za2VBVllGWkZYclBSU2FqNkVnQW1pQmNISTNPMmU0SldEdG1LUm1fMk5wTUVGWXVGaFktOXowSDNQTWVFWGdFYVRTemI1X01meWkyRnAyWFB5US0yNGl3?oc=5"
+        },
+        {
+          "title": "장동혁, 'AI 부정 논란'에 \"대책 없다면 수능 연기 검토해야\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPTzdCbmxPVTFwOW03am9ZT29mcmM2ZGNIcUVsVnBZSmc4UURjV2t3eDY0RzN3bTQtREVWSUZBWFJrRzNwemNuS3ZOc2J4UDVHOE9OaHJVMUd6d0dSUUVvdWwteUgzYzdyZjN6eXdkYm1oNGZrU0VFa9IBeEFVX3lxTE1JakFsX2xsTE0wNHlHNEtsNXFPV0d3SWtmM0wxa2pfX0UxMmhDN1NqUUhwSi1Ea0d6bjl2RU9zQWVOYlFhSWRYTGk2aG9YVm1SNEpBcWJQeTZYaFpDdWUxUXVmUlpwQlhpUTFpQUJzeEEtT3lKY1oyTA?oc=5"
+        }
+      ],
+      "summary_source": "조선일보"
+    },
+    {
+      "title": "법원행정처장, 한덕수 선고기일 지정에 “판결문 작성 어느정도 완성된 것…구속 기간 내 심리 마치기 위해 노력”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTHZ5MG9zQVhqUnA3MGZwUlZCWWppb0JHcnplSVVrdUVWNzdydlBpMXpIaGxaNFlvOTFobk41WnVnWFVoODhLNGVqdTd4LWxiRFRBLUpZQU9vZ9IBX0FVX3lxTE4wbUM3aGhUcm1zQUhxd0Y3VUo2Q056RUYzM0hMZkRiTUZVQTlGUXhqSlNHRVgxdnFOR04xdVNPU0VRRS05OHk2azFPeG9JMWtDU1V1S3dQSG5waE1PeDNr?oc=5",
+      "summary": "노경필 법원행정처장이 16일 국회에서 열린 국회 법제사법위원회 전체회의 긴급현안질의에서 답변하고 있다. 오른쪽은 오동운 공수처장. 연합뉴스노경필 대법원 법원행정처장이 16일 대법원이 한덕수 전 국무총리의 내란 사건 상고심 선고기일을 오는 19일로 잡은 것을 두고 “구속기간 내 심리를 마치기 위해 (대법관들이) 최대한 심리를 한 거로 안다”고 밝혔다.노 처장···",
+      "image": "",
+      "date": "2026-11-16T04:48:00+00:00",
+      "source": "경향신문",
+      "related": [
+        {
+          "title": "대법원, 한덕수 내란중요임무 19일 선고‥구속 만료 하루 전",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByWG5PT29DOHJvb0FRNjlmUnI2T0l2eGVQcDdmZDhVUXhTY2JJTmhBalFBeGw2RTV6M3hNVEtsa3U5b3pIWGNKN3F6bjdzV2x0eklDUWJ0RDFVVy1jTlJLOExXYjR5TTJ6Uk04QlRIWHo1bmZqUTRz0gF3QVVfeXFMUGZQaTlGbjNUTW41THVrQmFIdDQwcGhnYVVoVE5sdEJ4MTZoUXk1WHJtRVpLTFllM0lfZjhPNEViX2prZWc3bUJKMHlucTFfRXNHbjhkcUw1QW1Wb25aXzZBVDJvUVI2am05R2tjNVpxanplV2NiUms?oc=5"
+        },
+        {
+          "title": "대법원, 한덕수 내란중요임무 19일 선고…구속만료 하루전",
+          "source": "JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52M3d0MUstcFlOc2c4NzJNYnpLS3lzM0dvYThTTmowUVNWRGM0cXl5Y2VtaXhGZEI2RlFTbU9kUFpuZnVJOE5GYUJMZnBQalJ2SlhONA?oc=5"
+        },
+        {
+          "title": "'내란 가담' 한덕수·'3대 의혹' 김건희, 19일 나란히 대법 선고",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LR1ROclZSZUJTWHF5Q3JrYXpHZjZadjlfYmM2Q0J2LUk0R2RsSzZmenJrV2dqN0NKQnFXRFpKY2FOYm00VU11Y1NrZngtMEhDbjdFdjNoLWNvSmc0bzdjR0pPTmlmZGlnamJ6RHdrWQ?oc=5"
+        }
+      ],
+      "summary_source": "경향신문"
+    },
+    {
+      "title": "조정식, 김형오·정세균 헌법개정자문위원장 위촉...\"현직 대통령 연임 논의 안 해\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdWxManYwVFdBUUg4bVhYYzVBaTNzNEI3Y0w5VHB4ckVIQmRTdHZub1NHcXZxLS1rNlBEVnJPOFgtemJXZXlaT21TQ3JRVDllUjJvVFgtS25ybzkxZ2ZIcTRhS1BDR3psN3FuM3BGNGZpNXRJZEY3WE1HN25QU3N2ZmRQR252elpUVDB5Mk1vemo?oc=5",
+      "summary": "조정식 국회의장이 16일 국회에서 헌법개정자문위원회 공동위원장 발표 기자회견을 하고 있다. 연합뉴스조정식 국회의장은 헌법개정자문위원회 공동위원장에 김형오·정세균 전 국회의장을 위촉한다고 16일 발표했다.조 의장은 이날 국회에서 기자회견을 열고 “헌법 개정의 첫 단추를 끼울 국회의장 직속 헌법개정자문위원회를 이끌어주실 두 분의 공동위원장을 발표한다”며 이같이···",
+      "image": "",
+      "date": "2026-11-16T03:00:00+00:00",
+      "source": "조선일보",
+      "related": [
+        {
+          "title": "조정식 “개헌 특위서 ‘현직 대통령에 미적용’ 명시할수도”",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80dEFBUlJ2R3pwYVVHR0RZYVNfbGVSUUt5UUh2S1lHQjkwRjQtdFBUeHdjWjQzU1E1cnhDRmlJR3hDU0hVWE53T0lzSkJ2WTFkS2xvNTNZU3I2ZlhZN00xV09Vc2ZUWTk5dTM0TzBzTU5KallJVUtr0gFmQVVfeXFMTVQ2bHBSekJvQlpBd2x3a2QxT1ZEbFZlVkhXQUpVNTRObjdmekpXYkItaUZsNDNIekxvLTRKOVZya0dpMmRnVWRjZi1kaXV1ZlNGRzdHeW9nVXQ3dktyUG54cm9LZDZ3?oc=5"
+        },
+        {
+          "title": "조정식 \"국회 개헌 자문위 공동위원장에 김형오·정세균\"",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSZ3dmcGQxakVhaHRHU0IydGxnOTNYUXQ0WnpxTmtXOE4yZjUybkxuR3RSSUJXX0FDb2s5ZDMtOE8yT0szeXN5d2h0WFBvemRDRmZZQ0JkRTlrVE5GTmpCZThSdGwyQjBmcXJKc1ZVZ1RYZzZlUkQ1X9IBeEFVX3lxTE9kZkZWVTNreWR6Y0pUTFNvZnZLQkQtWE9zWnlsRWNCMlh0TVo4bDlsVmg2UnhFVktDcDJIZ1N5VXk4dFo5cXlReTcyLUx2X2lpWEZOeDJNVEpYUld3Yk5QbzFRTTFoMDNxX01rWFRvbzg0dDRiREtHZg?oc=5"
+        },
+        {
+          "title": "국힘 \"趙의장 개헌론, 李대통령 탈옥도구…이번 정부서 개헌 없다\"",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83aFZsUklQMUQwRG5jYmkxWFhmd0hNcjdqMWVaZXcwVGF1ZG9hNHRya0lyRjRyNVpOazhIbDlRNlhFYkJTekZZQ1A1QmtxNXZKZ05qWlFyWi1HNTTSAWBBVV95cUxNYmtvaWhJc1dJa1c3dEZWQ2lPcHFrQ3V0czNqcG51N3B0c2w5YlprazZUUlA1aXNrc1pBRHl3TUtJNUF4TW5iRC1lTzBvVC0tUHc5OEpzT01GaWhNX0ZyeFQ?oc=5"
+        }
+      ],
+      "summary_source": "경향신문"
+    },
+    {
+      "title": "[속보] 최민희 등 친청계, 최고위 참석... 불참 사흘 만",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZkNLQy1TNjFZazBaU19YTmFPZHExWmZHcGEyc1FwSjhVT0Y4NWp4WnlyQlNHS2oyRjVkX3FWODhkamdsSmJyZktxTEQxN2s3OHRVczVMYVctMWdhOUYtV3hIYUlhNjRlc1pFTzA5elVaSGxEenozRXFGSzJvVnkydmhIMXRBYU9Jc2R2Z1o3TzA?oc=5",
+      "summary": "김민석 더불어민주당 대표가 16일 국회에서 열린 최고위원회의에서 발언하고 있다. 왼쪽은 최민희 최고위원. 연합뉴스김민석 더불어민주당 대표가 16일 ‘이재명 대통령이 당대표 시절 윤석열 당시 대통령의 탄핵에 반대했다’는 취지로 발언해 논란이 된 최민희 수석최고위원에 대한 징계 절차가 본격화한 것과 관련해 “모든 절차는 당헌·당규의 절차에 따라 엄정하고 독립적···",
+      "image": "",
+      "date": "2026-11-16T01:31:00+00:00",
+      "source": "조선일보",
+      "related": [
+        {
+          "title": "최민희. 사과 끝에 \"신천지도 책임져라\"...계파갈등 분출된 민주당 최고위",
+          "source": "JTBC",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBONEJYV19kU0JlLVhDa1RJZHRRRG1MOXhRWHNxcHJvUDBncFJkX1h2ZXVmNnRPTTBmYVlMaHNBcE5OQXZORnRUZmE4MDFqZlJRbWNfQQ?oc=5"
+        },
+        {
+          "title": "한국사진기자협회, '하이에나 떼' 발언 최민희 모욕 혐의 경찰 고소",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WU042dFNVY1NFcjhLSWFyNXdNdDUtS3ZFRzZZVzlhSlNCZzUzbWRnX1RJLVl4S0lQREZfNkZBejNjeG94Qll3QUNnN3BuYS1ObEliMzU5RVBJMWZhOV9ZanhFcWZNbHVta3FvbWRiWkNkZlpFME5Z0gF3QVVfeXFMTUZ4a0NJQWl5WEVUcWhiRVBTQ0Y2MnRub3dydndmU29QRERRWnlfZWtnVHRyeVJZaUVpVk56RUFybmdGNXFZbGhScGRnLVJ1aWV6c3JQbE1mank2ZDQwV3dIb2U0aFNxLTZERTMtQU9Cand4NENNcjQ?oc=5"
+        },
+        {
+          "title": "박지원 \"최민희 징계 불가피\"... 윤리심판원 첫 회의서 다뤄질까",
+          "source": "OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16UE00S0RkRjBOUVNkdS1mdmdLTmFCaGVTbjFoU3F1UWV1cjgzWkczdEJ6bmhrY2tSTmdDNnpoV2RiU05DTXlIZmltQmtVczNzSDd2eUMwR1EwNGFrUkJ1YUlmVm9MTFlrZ3RmS24wU29uWmsxeWZV?oc=5"
+        }
+      ],
+      "summary_source": "경향신문"
+    },
+    {
+      "title": "“장동혁-오세훈-한동훈 마주 앉자” 국힘 韓복당 갈등 확산",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JZ3FtUWJzWVRBVFFJQ1QtelJ5UEVzQkwtM1pkcXlqOTVOSzE3TVFuSzJFMkZKTzRycFJvUzZTM1hMMzVFLWhzaDR2RTBuV2dNa2xoRFRyd2xsb29IcjFXN2N1MEJxZ0hpcGlUU3lXOEJZeEpyUVhn0gFmQVVfeXFMUFNDZFlnYnZaVUg3TllaVHIwSDA0VzZPa2Zvd0tXbVpqYXF5eGxjeUlFSHljZGRFSU1KZEpLc2ozQ0dMa3J2SGdjNVlsOVZ1UXFxTlJSY0UySFM0UkFLQXNualU0eS13?oc=5",
+      "summary": "",
+      "image": "",
+      "date": "2026-11-15T19:30:00+00:00",
+      "source": "동아일보",
+      "related": [
+        {
+          "title": "국힘 윤상현 “갈라진 보수로 이길 수 없어…장동혁 결단해야”",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01TTYxNDZxN0xWQjBRUlV1NEVhS2dCZHJIeEFzdW9Ba01QZlJseEw5dzJSbXpqRWlUbVdJOUxUZzU4ZEYzc3JDeVJjT2xOSWtSUnN1cXNHWlFmdFU?oc=5"
+        },
+        {
+          "title": "국힘 중진들, ‘장동혁 리더십’ 잇단 목소리…차기 당권 경쟁 조기 점화",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93S0VZS21VUXV5aHJYZEg0Q0pvNUVpUXoza3g5M2pTUDZ4SWs1U2JiZkp5M0RqR2d2SmNvWnNnOG10QzJtaS14eEt0ZjFpM2lEeEI5MjBta0RnX2V4WUFRRXdpVF81b1lxa1oxREFNT1NjWUxOV3ow0gFmQVVfeXFMUF9UdzZLaXdtNXhzLUFyaHp3dVN4a0w5ZUZ4TXVZd2ZvVUxaS1p3LXdlWnBCZllrcDhCYWZSaUFDVzZ0Z2lNTVFlZ19FWU1FSUVQTVlIQUxlRURFVWhXeHo0dk5OMkF3?oc=5"
+        },
+        {
+          "title": "野 중진들 \"張·吳·韓 모여라\" \"덧셈정치 위해 결단해야\"",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGVkWjRzdkRsaklkLUpmSVljZ2ZIZE9EZUwyeUVHdGwzYTczZHNMOXc2Zi1GTS1SbzJVY25NTHlxNGJPbWoyZjdod0RjLTlKa05oRDRqeEFKTjN4X0c3Zl9QOWFZTTdYdGZZVkhpS3RKUFo3eFlLZnpSbE04S2czTkhHcXEtQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "트럼프, 전국 항공편 마비 사태에 \"관제 시스템 전면 개편 예산 승인해야\"",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TTlFtSncxeElWU0U2LVFuNnJ2eHMyTjVpLUpkZDcxSXpkeFBfd3JlU09YcXY2NGVsLXFOZW1FOWdjVVlXTzc4bElrbkI3TlFY0gFTQVVfeXFMTkFTbVMwWlRGbzhoMWtveERrOUR0RV9TdU43dE14OU9La2FOdTdRRzZmeEY3NC1TVGNYd0J4V18xajVBY0J5T21kbjJGdUM4RVoyNDQ?oc=5",
+      "summary": "",
+      "image": "",
+      "date": "2026-11-15T17:42:51+00:00",
+      "source": "VOA 한국어 홈페이지",
+      "related": [
+        {
+          "title": "미 항공대란에 트럼프 첫 발언은 \"바이든의 재앙\"...민주당 \"문서 전부 보존해라\"",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nbXMtZDYydEFneU15cHZ1cl92cmc0NDdRMFlSUUJHNHJIejhNclI2ajBlN1NQNWpGMEZWWk5hSUNZS252ZWJCcjZYRnJjUGZtcmVIa2RlWWt6WGg0cUp2SDAzbnpzTS1zaWNTLTljNA?oc=5"
+        },
+        {
+          "title": "60년된 구리선·25년된 장비…“부품 구하러 온라인 중고 거래까지 이용”",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ja2lKVXVLNUMxckFIbU8xM1dfaGljakhqNnczWEZxZU1ZakM1WmU3UlpVMVQ1R0tlUUtWSVJFNEJmcHVOUXFTbGhSVmpHa2VtT2FVd2k4R2djZHM?oc=5"
+        },
+        {
+          "title": "낡은 구리선 바꿨다가 美 항공망 마비",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54a3I3R20xSXNBc083ZkY5aGpQTFozZGRMUGZlRkdsZXljTHpXZks0bExLYjREb3pEQXNFRmkwZmhTQlJXSDJFdEYzcER3cGQxWXpaS3FFbUdaUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "수능 문제지·답안지 배송 시작…경찰 호송 속 전국 이동",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcjAtLWFTcklyYnpqSGlZWjJjS2Q0OHNuUHpNc3k3Mmd0S1doNmFCSF9XUFVHNDlHMzIwNlhDQThQMFljc2Zkc3dNekNjRDFkSEJjVnYyU0lxdw?oc=5",
+      "summary": "시험 전후 지하철·버스 집중 투입낮 시간대 버스 운행 간격 다소 늘어날 것으로장애인 수험생 장애인콜택시 우선 배차2027학년도 대학수학능력시험이 14일 남은 5일 서울 중구 시청광장에 수능 응원 현수막이 걸려 있다. 2026.11.05 한수빈 기자서울시가 ‘2027학년도 대학수학능력시험’ 당일인 19일 지하철·버스 운행을 조정하고 비상수송차량을 무료로 지원···",
+      "image": "",
+      "date": "2026-11-15T21:00:00+00:00",
+      "source": "뉴스1",
+      "related": [
+        {
+          "title": "교육부, 2027학년도 수능 문제지·답안지 배부",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IVlM5NkFCbDFtRFRNLXloSlM3b2FGeWg3WU5RSDFfc0cxNnBRSzI3T3l0LTVhWVFZdDNzYU9KNlBMVWVPRDl4a0lsQU9HU1B4THBjc3E3WXV0M1U?oc=5"
+        },
+        {
+          "title": "안성시, 수능 당일 소음 자제 등 종합 지원대책 가동",
+          "source": "경기일보",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTVJEeFFGMXFNcWd4QWE2ck4wWmdJR2l2Z2dXM0JZSHo1NnBSbGUwb29fU0lPNm03TUZSYzBuWXZtVHRVTWJ2Z0NKREtaZmRXOFlZZGF2NUd2T2c?oc=5"
+        },
+        {
+          "title": "서울시, 수능일 지하철 27회 증편‥수험생 수송 차량 614대 지원",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tU1lRN1JDMEZ6Z2pMVG93eWtMbklvRm83b2pBMDdZQ0tMRkR4eVFuZXBoY2FNcTh0R3k3eEV0QmU3bzItZlJWaFVJLWM1N1FYVEtwU1ZhQzBiSlp2dTlUbDZFLUFfRVhiNnp4ZTJQcU5jSXI1MU040gF3QVVfeXFMT2lNZ1pqY003ZGh4QzhLWm5WNjVkeUFDSWJBUFFyd2hIckFLTnhOV3J3c2MyeW9UbFNtcVgyZGdqeTNac2V0QjVoX1pxZ0J0NzA2Y1RnZ3VhU21YNlZsWGVhQlhJcWFwcEFvdzRCb21MNkw1cVNNMEE?oc=5"
+        }
+      ],
+      "summary_source": "경향신문"
+    }
+  ],
+  "international": [
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+      "date": "2026-11-15T19:32:39+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+      "link": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "summary": "Israeli officials were convinced that Tehran was to blame for the airman’s disappearance. Alternative theories got little attention, until now.",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/00int-israel-airman-jpml/00int-israel-airman-jpml-mediumSquareAt3X.jpg",
+      "date": "2026-11-15T18:47:49+00:00",
+      "source": "New York Times"
+    },
+    {
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI…",
+      "image": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=e825c93b0c4e49e69e380953e02995c6",
+      "date": "2026-11-12T13:14:38+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "link": "https://www.aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie?traffic_source=rss",
+      "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+      "image": "",
+      "date": "2026-11-16T04:53:42+00:00",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
+      "date": "2026-11-16T03:08:31+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "In Banff, a Grizzly Bear Known as ‘the Boss’ Rules the National Park",
+      "link": "https://www.nytimes.com/2026/11/15/world/canada/grizzly-bear-boss-banff-national-park-alberta.html",
+      "summary": "Bear 122 has survived a train, cars and rival bears. Some fear the biggest threat to his life now is his own fame.",
+      "image": "",
+      "date": "2026-11-15T17:07:07+00:00",
+      "source": "New York Times"
+    }
+  ]
+};

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>朝刊新報 · 아침신보</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Song+Myung&family=Nanum+Myeongjo:wght@400;700;800&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="paper">
+    <header class="masthead">
+      <div class="ear ear-left">
+        <div class="ear-title">今日의 格言</div>
+        <div class="ear-body" id="motto"></div>
+      </div>
+      <div class="title-block">
+        <div class="gothic">The Morning Gazette</div>
+        <h1 class="title">朝刊新報</h1>
+        <div class="subtitle">아 침 신 보</div>
+      </div>
+      <div class="ear ear-right">
+        <div class="ear-title">定價</div>
+        <div class="ear-body">一部 五十圜<br>每日 午前 八時 發行</div>
+      </div>
+    </header>
+
+    <div class="dateline">
+      <span id="issue">第 　號</span>
+      <span id="date"></span>
+      <span id="updated"></span>
+    </div>
+
+    <div id="notice" class="notice" hidden></div>
+
+    <section id="lead" class="lead"></section>
+
+    <h2 class="section-head"><span>國內消息</span><small>국내 주요 소식</small></h2>
+    <section id="domestic" class="columns"></section>
+
+    <h2 class="section-head"><span>海外消息</span><small>해외 언론이 전하는 세계</small></h2>
+    <section id="international" class="columns intl"></section>
+
+    <footer class="colophon">
+      <div class="ornament">❦ ❦ ❦</div>
+      <p>本紙는 每日 午前 八時에 새로 發行됩니다. 기사 제목을 누르면 원문으로 이동합니다.</p>
+      <p class="sources" id="sources"></p>
+    </footer>
+  </main>
+
+  <script src="data/news.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
