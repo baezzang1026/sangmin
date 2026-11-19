@@ -1,298 +1,238 @@
 window.NEWS = {
-  "updated": "2026-11-18T13:04:49+09:00",
+  "updated": "2026-11-19T13:01:58+09:00",
   "domestic": [
     {
-      "title": "[속보]‘AI 부정행위 의혹’ 리트 만점자 경찰 고발당해···“강제수사로 확보할 자료 많다”",
-      "link": "https://www.khan.co.kr/article/202611181158001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "summary": "경찰마크. 경향신문 자료사진인공지능(AI)을 이용해 부정행위를 저질렀다는 의혹을 받는 법학적성시험(LEET) 만점자 이진우씨가 18일 고발당했다.방민우 변호사(법무법인 민)는 이날 이씨에게 공무집행방해 및 업무방해 혐의가 있는지 확인해달라는 취지의 고발장을 서울 관악경찰서에 제출했다.고발장에는 이씨가 지난해 치른 대학수학능력시험(수능)에서 위계에 의한 공무···",
-      "image": "https://img.khan.co.kr/news/2026/11/18/news-p.v1.20261116.0cc84564cfdb42bba0bc2bb3683c76d3_P1.jpg",
-      "date": "2026-11-18T02:58:00+00:00",
-      "source": "경향신문",
-      "related": [
-        {
-          "title": "[단독] ‘리트 만점자’ 이진우 결국 ‘공무집행방해’ 혐의 형사고발 수순",
-          "source": "JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1heG12YTlGMWt3dXBWTkdDeGxHTzQ1a0oyZm15VG02Vjg4MUxZSVBPM0xmUXFKQ1VvWXdaWVNOQk5RQXU0eDdtVzFJeUQ3VzBmRXIybg?oc=5"
-        },
-        {
-          "title": "시대인재, 'AI 부정 의혹' 리트 만점 이진우 계약해지 결정",
-          "source": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xRlQtakluS3pDNnZMcmVYM1Z6ZURXazBBR1JBNnhXN0hUVTFkWVVxdzNBcF9sQzF3WWJTeEZwZy1KTElyRmZxWkVFVklTWjFDRzZzNXJVRGRzWUVkdVJuMWRPS0JPMUhhS2FKMktlZ0VXdzlBU3J3?oc=5"
-        },
-        {
-          "title": "[단독] 리트 만점자 “AI 안 썼다…수능 날 모두 밝혀질 것”",
-          "source": "중앙일보",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51SzIwOEhtUFNNS3pOU3FxS20zWjc2dFF1Mnp3NENDcG9RUG1xZVZvRGFMdEZ3LWc2LTIwdDBBc1dNMWJ4Nk5teHR4djdfUjBPZlBVc1ZR?oc=5"
-        }
-      ]
+      "title": "트럼프 \"AI 잠재력 파괴할 국제 규제 반대…미중러 회담 역사적\"",
+      "link": "https://www.yna.co.kr/view/AKR20261119083551071",
+      "summary": "(선전=연합뉴스) 이유미 특파원 = 도널드 트럼프 미국 대통령이 19일(현지시간) 인공지능(AI) 기술과 산업의 발전을 저해하는 국제사회의 규제...",
+      "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/19/AKR20261119083551071_02_i_P2.jpg",
+      "date": "2026-11-19T12:54:36+09:00",
+      "source": "연합뉴스"
     },
     {
-      "title": "‘與 1호 리스크’ 된 수석최고위원 최민희… 설화에 사과만 6차례",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ab0p5VVpiUjd1NG1MVDJWVWloTVdXWnp5Z2Y4MVhqYUtrQ2tuemowQlc4ZWItRnFSSDBiRVFHekxydnd4cFN1LUJGOHUxTHB1TC15SjhVdTZ3SnNFMm5xT2NJZHlnbmU4M0hMM2pRWVBDa2RRSVNn0gFmQVVfeXFMTTE5eWxzM01CNTRNVFFsTk80SEJwelhieWhlWDlmM0J4RlhlSnhBZW5fTG1hYjk0aXo1YmVqTDZMUTJTTnUtam1MaEdBTl9VejQzd0hVUmpxQl9XX2gzdDRiYkdPMGFB?oc=5",
-      "summary": "(서울=연합뉴스) 최주성 기자 = 더불어민주당이 18일 최민희 의원이 단장으로 있는 '미디어 공공성 TF'를 해산한 것으로 확인됐다.",
-      "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/16/PYH2026111607270001300_P2.jpg",
-      "date": "2026-11-17T19:30:00+00:00",
-      "source": "동아일보",
-      "related": [
-        {
-          "title": "‘최민희 징계’ 놓고… 지도부 이어 與 초선들도 둘로 쪼개졌다",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTG5DSHc5UmtwVERqWkM5dHo2LWpwR3hERGptYlhzS094LTFPVUpQOGVVZ29OS3o2RXZGaVhGWGtWS1NWT1lCb0tNNzRsVWNFMTVENGo5N0U4ME9tTHpkQ2h4bG4tNXZQRkFjMzhaNTIxT2Z2TEhaTDVVWGxOdnJOblVtU04xUQ?oc=5"
-        },
-        {
-          "title": "[점선면] ✍️'하이에나'가 불편하십니까",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ydnp2NXVGc0JNUUtEUWNrT2hRd21Hd2VxQW5uSVdGWmIwa2VxRVBDT1hQWWt2UmU5QXVqaHpqLXFhNWhoTTJrMXlycS1hYVZVWFpEX29nMEhIcGtKd3p6SlZKV3MweWtQbXhEWm9Cdw?oc=5"
-        },
-        {
-          "title": "[단독] 민주당 중진, ‘최민희 경징계’로 의견 모아…지난 주말 회동서 논의",
-          "source": "JTBC",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlck5ERHBqR05zSlF2Zk9GSDE1NHRCdW5qRlY4WVR3ejkxNjdBVGRwNlN5N040OXkxcnZMeHhFMUxiUzRrQmpxUmp5Vkx6RWRTYXN2TA?oc=5"
-        }
-      ],
-      "summary_source": "연합뉴스"
+      "title": "경찰, ‘AI 커닝’ 세무사 시험 수석 2차 소환",
+      "link": "https://www.chosun.com/national/national_general/2026/11/19/GVD5AS5UXNCF7LF5457FPUJFPE/",
+      "summary": "올해 세무사 시험에서 인공지능(AI)을 활용해 부정행위를 했다고 자수한 수석 합격자 한모(34)씨가 경찰에 출석했다. 첫 조사를 받은 지 이틀 만이다.",
+      "image": "https://www.chosun.com/resizer/v2/MI4TAMTCGEZDMNJZGBSTOZBVGA.jpg?auth=8941ada856c8e3a8c296e79858e4fc99abced638747a41bb3001a62ec0581c9f&smart=true&width=600&height=413",
+      "date": "2026-11-19T02:47:01+00:00",
+      "source": "조선일보"
     },
     {
-      "title": "[속보] 이 대통령, 시진핑 주석과 오늘 정상회담…한반도 정세 논의",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MU3RTVXdxR0lfUkVQVnIyRmxGTFlVaFJoX1BGNmFMQlJuTEYyb1R4WDFDdDlrZ1dfOUVSbGNPVVM1R1hCYWVaeDNPVkc1TzBWdFBvUnRac3dYaWQ3RGhzNTRjNFFuNzBCWFlV?oc=5",
-      "summary": "▲ 시진핑 주석, 이재명 대통령이 대통령-시진핑, 한중정상회담 종료...34분간 대좌",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202242053.jpg",
-      "date": "2026-11-18T01:27:00+00:00",
-      "source": "한겨레",
-      "related": [
-        {
-          "title": "한·일본 정상회담 - 사진 | 멀티미디어",
-          "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uUGdZdG1zNVBwRU8yVmF2dnVSYUoxTVo2bzBEakYtam5IcjdjQzJlcTVIUXBSN0ItZ29KV1lqVXVFeGkwdno3a2NHTVl1RTkzX21lREpYYkZpT1Q5ekdHNnZQTGk0VzV2eWhkWlZiYWVYQWN2b2wzRmJ3?oc=5"
-        },
-        {
-          "title": "이 대통령, 오늘 시진핑 주석과 한·중 정상회담…한반도 평화 등 의견 교환",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQUndJR1B1YmkzQm94NFZMOXBqTTR1MTdKWkhydThnYTk5OHNYTXpMNDJHT1hBdFBwMGlHMGtocUNOMU9WWG5NNW1LREh5Q0VhVjdEdXlhM3ZUZ9IBX0FVX3lxTE84SzF3NjJjbUhEVTJQbWlDN2VHY0JjQWs0RVd1d2hiWmlaMzdPQmtvUktJeWRJTkxLazktU3E3N1JseUt3RXJHTHpMWF9zU2FzV3EwSFQzTUlEOU80NGE0?oc=5"
-        },
-        {
-          "title": "아세안 일정 마친 이 대통령, 중국 선전으로…APEC 참석",
-          "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zeEJtVG1pVWtVSmFpQ1RuQnFjY19Zb2JvbXRVS0llTG9KWHBMdFVLZVR1RWNNUklpRHhub3JkaWJqUm5yUk5WRW9RQ0VUMGR3Zzg2SjM2VV9jckE?oc=5"
-        }
-      ],
-      "summary_source": "SBS 뉴스"
+      "title": "한국자동차전문기자협회-한국자동차공학회 업무 협약 체결",
+      "link": "https://www.donga.com/news/list/article/all/20261119/135053490/2",
+      "summary": "한국자동차전문기자협회와 한국자동차공학회가 국내 자동차 산업 발전과 기술·지식 교류 확대에 나선다.양 기관은 지난 16일 서울 강남구 테헤란로 한국자동차공학회 사무실에서 기술 정보 공유, 전문성 향상, 학술행사 지원 등에 대한 업무 협약을 체결했다. 이번 협약에 따라 ‘대학생 자작자동차대회’ 등 한국자동차공학회 주최 행사를 지원하고 협력사업을 발굴·추진한다. 이를 통해 자동차 분야 인재…",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/19/135053487.2.jpg",
+      "date": "2026-11-19T12:51:51+09:00",
+      "source": "동아일보"
     },
     {
-      "title": "’푸틴 자존심’ 크림대교, 우크라에 피격…“대항력 입증“",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yckJ1Z2p3V19vMGd6aVlUbFlSWjhlNUtIZmdnamwwM0RMRUM3LTV2UmxOMXFpZm5rdGlaMm93NGNWcGxBVnFYUXR4SjlLcVNnaFRZc0VveEFzSUx3Y1JrQS0zaFhjVm8?oc=5",
-      "summary": "(서울=연합뉴스) 미사일이 빠른 속도로 날아가 목표물에 명중하자 시뻘건 불꽃이 치솟습니다.",
-      "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/18/AKR20261118095600704_02_i_P2.jpg",
-      "date": "2026-11-18T02:19:00+00:00",
-      "source": "연합뉴스TV",
-      "related": [
-        {
-          "title": "[영상] 플라밍고 날자 크림대교 큰 폭발…'푸틴 자존심' 핵심구간 붕괴",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDUUJZVE45LUNwdi1HbWhXcHlXS3Q1NV9URThPalR6WHc2VkFfOG5wNG1OVzhTUUpCemQ0RlJRLURBRUVzTzEwSEtIMFYwcTMwNnlEUXhYS2JSN1XSAWBBVV95cUxNQnE2b1U4SjJSR1hXV0owdVIyd1BjS2E3aU1EaDBweGdyTHJwWURQLUZpS1pLVDBZcGpVbDZiZzBvdEdzQ19LOGg1anNnMTFNWDM5enFsMXpmZmZOT2lCQ0k?oc=5"
-        },
-        {
-          "title": "미 국방차관, 우크라 '러 본토 공격' 비판‥나토 수장은 옹호",
-          "source": "MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Kc2YtWFo0TUVTaHpqOUZQUEUtT2dJSFdfbGhxWGlGQ3dlbW5CdkRJS191eHFSRllQYXpvcVBYbEFSR3RxMnVLZ2JwV20yWmtUajFQV0RubzV2VTVGQi1aZ0ttX0RHWHotSjhUYkFJakpHWFZF0gF0QVVfeXFMTlQzTGhMdFBzbEVaNkpWNmpISEFNMmYzaXRiOHhseVlYUGZHQk5KQzZzWXd6QXBiX0pPSUJlMEZmSkFyUGt6UXRPOUxYRjFmTnR2Zk1oTDZhb0UwcTF0UEh2Tms5RjVPWFFtQnJvYTRnUnMzV0Y?oc=5"
-        },
-        {
-          "title": "우크라, 미중러 정상회담 앞두고 러시아 맹공…‘제2 얄타회담’ 우려?",
-          "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tWDdKRmV2WVVVQlp3TVNCMXFpQktZcWI5T3Zyc0RYZkk3QVBDS3I2SW1BQWs5eHpUVWNQei1Pc0xyeWR1ZFZZbW1lNzlGaThlTWtrOU15WHpXbUk?oc=5"
-        }
-      ],
-      "summary_source": "연합뉴스"
-    },
-    {
-      "title": "고경표 음주운전에 ‘보검 매직컬2’ 제작진 “시청자 불편 최소화”",
-      "link": "https://www.hani.co.kr/arti/culture/culture_general/1287884.html",
+      "title": "Lee discusses Korean Peninsula issues with Putin in first meeting",
+      "link": "https://www.hani.co.kr/arti/english_edition/e_national/1288111.html",
       "summary": "",
-      "image": "https://flexible.img.hani.co.kr/flexible/normal/1162/619/imgdb/original/2026/1118/3417949688274856.png",
-      "date": "2026-11-18T02:18:00+00:00",
-      "source": "한겨레",
-      "related": [
-        {
-          "title": "고경표 음주운전에 박보검 예능도 날벼락…제작진 \"현실적 한계\" - 머니투데이",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CeTAtREJITTBKUk9kUWtZeGxKZE55MzVvdk5VanhGQ1JocWJkVjk1NUdfd3pHdHFwWGxnTnF6dktuVjFDd2RTbFNjYmtFNGNDTHM1UXdlS3ZCbnp6N1pSeWFzUUY2ZFk4a2dJcmxORU5CMjjSAXhBVV95cUxNYzZzcGwtSnpBbUk5azZqcl9GQUhoWlZ0MjE1eXRLSmlmY21xZEFCemMzR19zcEFQdzJ2R20xZklhWExaR1hIVUFmZWtMSE5JYXNzN1dWRHlvVUtpVHFOR3RHNkZOMjViLWtMcHR5ZlR6dldlOFhta00?oc=5"
-        },
-        {
-          "title": "박보검·라미란이 무슨 죄…고경표 '음주사고 후폭풍' 현실로",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ3FPV19JM19EWnRtN21KaVdkWlFTaWYzQ1ZQQm1FeGJ1WGgxZmYtSGVueGVrR3NTamE1TzV4OWhydXFaRkhHVUVMOHpDS0Z4aHNrZWFhOC10MHpJOEs1bmYtLVh3UlFFSDNQOEVSS1JqdEZjOXAyN1ZrckRKZEF2VnhxWlB5RnFvT0lSV0RzYTRMUkpy?oc=5"
-        },
-        {
-          "title": "고경표 '만취 운전'에 이재룡 '술타기' 혐의까지…잇따른 연예계 음주 논란",
-          "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udlMxSjQ1bTlMU1ZkYWdQQlFsX2xHNktpWjY3UVdBazlLMENOTjRfZUdMMXBCQmVRM0tpcnFsNXB5a2VCZXd6aXBuVnNjdG5rSzAxTDZIYUhLcFhYenc?oc=5"
-        }
-      ]
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/1200/720/imgdb/original/2026/1119/1417950602129042.webp",
+      "date": "",
+      "source": "한겨레"
     },
     {
-      "title": "A매치 최다골 경신+월드컵 탈락+7번 선수까지...'60호골 불발' 손흥민, 롤러코스터 같은 2026년 대표팀 여정 마무리",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR05fa3JrN1F6d3dMOHVZNlpZaVJMZUJGdGxidUthVHpIQ1FEUVJuUVhuZzdEWTJkUGVPNm1lM01kQ2Z6VVE5Q095dWpCdjlPLThUaTlDTFMxLVVhRzBxU1Iwdk5Eb0liUGM4REQ3THBKZ2g2NDJDY3FucEFZNklveDM3cw?oc=5",
-      "summary": "한국 축구대표팀의 임시 사령탑 계약 기간이 끝나는 로베르트 모레노 임시 감독이 재계약을 희망했다.한국은 17일(한국 시간) 카타르 도하의 압둘라 빈 칼리파 스타디움에서 열린 카타르와의 11월 A매치 2연전의 마지막이자, 올해 마지막 평가전에서 1-0 승리했다.지난 9월 임시 감독으로 지휘봉을 잡은 모레노 감독은 이날 경기까지 A매치 6경기에서 3승 1무 2패(승률 50%)의 성적표를…",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/18/135045490.1.jpg",
-      "date": "2026-11-17T21:40:00+00:00",
-      "source": "조선일보",
-      "related": [
-        {
-          "title": "‘임시 소방수’ 모레노 감독, 카타르전 끝나면 스페인 귀국…거취는 안갯속",
-          "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xT1FIb2V0V2NiODRDd3d5YjZXa0dxY0dubmIxOE9ZSTlBdFJ0OFRnc0d0SUJ6Rnd6U3lRQS1oMWRlU3dVdnRSR1RLY3FzdkViaEVTcXZWN0NrQVk?oc=5"
-        },
-        {
-          "title": "슈팅 21개 때리고 고작 1 대 0···‘임시 감독’ 모레노는 떠났고, 남은 건 상처뿐인 승리",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CS2p0S1VMRzZ4NVRPaUVyNzVoZHVHb1JNaF9jOGVRZmFEeEUyRWQwck1neG1JRGR6R1dfMEZ2LUU5ZFNJYWVJUDU5Mk9XTzQ3ZDE3a3F1dXY3QdIBX0FVX3lxTE9BSlRIdnN3SFI2Wm1OcmZTS1dkR09FMEV5WWNEVGs0d1p1RU9zME9rS1o3YlpxUzRnLVJYaU5yNERrOXRqNzlrSnJHT0QwWVUtVk80NXJ0d3hiSURyd2xZ?oc=5"
-        },
-        {
-          "title": "‘골대강타 강슛 오세훈에게 택배 크로스 어시스트까지’ 송민규, 유럽 가서 많이 늘었다 - 머니투데이",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ELUdKOF83UGktb3RZaDEwNzQ2M0FEemdDUGdoZnBkRmVtdVFnYVBJUDlfRlNVeW9XY2FMZmhIY1VTZGdYU0VVcVhucG9RZ3dfVlpsOEhKbUw1NENEMlFFZjBCQTcyYzR1SnfSAW9BVV95cUxQajBOS3l0MDU5U0M3eU5NM0gxal9GbU9LWnhzN3ZzOHNOSEpCbWNjcHZmeTlhN3hyMF8waFhnS0lhcnVnb3B0RDF2eVdNMTZUVlg0bTNYX2JRTTRobmJXcDA0WENIbGIzWmNWYkJjMVk?oc=5"
-        }
-      ],
-      "summary_source": "동아일보"
+      "title": "엔비디아 임시 CEO “앞으로 나아가자” 임금 인상 시사…직원들 56% “젠슨 황 복귀 원해”",
+      "link": "https://www.khan.co.kr/article/202611191250001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "콜레트 크레스 엔비디아 임시 최고경영자(CEO). 로이터연합뉴스콜레트 크레스 엔비디아 임시 최고경영자(CEO)가 18일(현지시간) 취임 후 처음으로 전체 직원들이 참여하는 회의를 열었다. 젠슨 황 전 CEO의 불륜 스캔들로 어수선한 조직 수습에 나서면서 엔비디아의 ‘포스트 젠슨 황’ 리더십을 정비하려는 행보로 풀이된다.크레스 임시 CEO는 이날 미국 캘리포···",
+      "image": "https://img.khan.co.kr/news/2026/11/19/news-p.v1.20261119.11719e2d660b447cb6ed4c8f59a6ab3f_P1.png",
+      "date": "2026-11-19T12:50:00+09:00",
+      "source": "경향신문"
     },
     {
-      "title": "프로야구 SSG, 외야수 최지훈과 4년 67억 원에 FA 계약 체결",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEVG85M0pjS3dKTW1NLWVTN3FIalcxYW9aXzBnVnFHUTJDRU5WTDJzQmpmVjJlc29tRmhDSW52YmlLaGNJNnJqZGJGWF95VERacTQ4WXB2aHVfeENXNzlubmZ0QzVSZ19QeW1Vb2d3NjBvUkFQTGfSAXZBVV95cUxNdW5ZdmRFNVpxeTJMb1diSUVSTDd5dDl5bUpReEJVOFFxb0FSU0tkVWhDX1VXbjJxMjMyTkN6RFlwMXNZVDkxaG9tTzI5ZWpaM3I3OXBSajVvckY0V2xlY0RJd01vbnR6VHN6T1FWTG4xWktzOWF3?oc=5",
-      "summary": "[OSEN=이선호 기자] 호령존 영입경쟁으로 비화될까? 2027 FA 시장에서 중견수 최대어로 꼽히는 최지훈(29)이 원 소속구단 SSG 랜더스와 계약하면서 또 한 명의 중견수 김호령(34)의 가치가 높아질 것인지 관심이다. 최지훈은 계약기간 4년 총액 67억 원을 받는다. 구체적으로는 계약금 38억 원을 한몫에 받고 4년 연봉 20억 원, 옵션 9억 원이",
-      "image": "https://www.chosun.com/resizer/v2/GY2DIMZXGFSDKMTBGFSTCYRSMM.png?auth=d4046812788883217147c58b16c061489c21f84ba181eadb8b8a3f6845f7decd&smart=true&width=530&height=673",
-      "date": "2026-11-18T02:39:36+00:00",
-      "source": "MBC 뉴스",
-      "related": [
-        {
-          "title": "중견수 최대어 최지훈 67억 SSG 잔류...프리미엄 C등급 김호령 더 귀해졌다, 쟁탈전 벌어지려나 - 머니투데이",
-          "source": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRRDBpa21YZU9qdGU4V1VBOGp1Si1Ea1lyQjNWWXBqLWFvZm52RlZCRGpSTGg0NjJDWmxHUjlTLUQ5OFAxWGZXSDlfajY4d1pOQ3RwNm9BVWNPSWJ6WDFXRDMyMFRHQ2hIQWfSAW9BVV95cUxOd3l6U0xiUDB4WFBXOEdEVV9Dekp3SHdnSTMyRzZSQk9xbW1fS1liQTlaX1hiRmE0b1lIUXhOR0Q3M2N6T2lzY2dOYU5BYUVHbWo2S1oxLXlKVXNWaXlDQy0xamR3Z3RmOFlfNjFTNEU?oc=5"
-        },
-        {
-          "title": "'오태곤-양의지' FA 초반 러시, 롯데 170억에 짓눌린 4년 침묵 깰까…\"단장님과 얘기 중, 시장가 본다\" 이동욱 취임선물 받나 [오!쎈 미야자키]",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVo3VDlxN2JBWXpGazFMVjliTGJ0R21PQnRoT2FZYS1vRV9VUHE2dmQxdWdQanQ5dnFSWEo2NnNvYUJaWWdOSVEyY1BvMWFuNGtxSGs4RW03Rmc1OFVvN2pOOFRTMzlGbGI0Y005cXk2TWcwTGViSUtjaE56WVlfNTVkQQ?oc=5"
-        },
-        {
-          "title": "오태곤 이어 최지훈도 SSG 남는다…’4년에 67억’ 계약",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tdFo5VHpZQmwySXo1Z0RoNHQ0QVJrUGV6NEhwZmsyWTlIV203SU4zOW9mMkRETW1XdjFsd1FlQmVUU181bkxpTWo1cmJTZDlSazVraU4tS1RYYWpGSDFuNGtNVkV1T3M?oc=5"
-        }
-      ],
-      "summary_source": "조선일보"
+      "title": "앤트로픽, 일본 IPO서 30억달러 조달…목표 하단",
+      "link": "https://www.yna.co.kr/view/AKR20261119086200009",
+      "summary": "(서울=연합뉴스) 설원태 기자 = 앤트로픽이 일본 투자자 대상 공모로 약 30억달러(약 3조9천933억원)를 조달한 것으로 나타났다고 블룸버그 ...",
+      "image": "https://img.yna.co.kr/photo/reuters/2026/11/19/PRU20261119070301009_P2.jpg",
+      "date": "2026-11-19T12:52:03+09:00",
+      "source": "연합뉴스"
     },
     {
-      "title": "용산 전자상가 뜬금 현수막?…\"대치동에 생기겠네\" 조롱",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851190&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "정부가 2027학년도 대학수학능력시험을 앞두고 인공지능을 활용한 부정행위 방지 대책을 발표한 가운데 온라인에서는 이를 풍자하는 합성 이미지가 확…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202242038.jpg",
-      "date": "2026-11-18T11:31:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "지난해 공시대상 기업집단 내부거래 277조원, 전년보다 3조 8000억원 줄어",
+      "link": "https://www.chosun.com/economy/economy_general/2026/11/19/7IFMBUADJ5EEJGDIPBNYQEQ6JQ/",
+      "summary": "지난해 공시대상기업 집단의 국내 내부 거래 금액이 약 277조원을 기록해 전년 대비 감소했고, 내부 거래 비중도 감소한 것으로 나타났다. 쿠팡은 내부 거래 금액 상위 5위권 기업집단에 처음으로 진입했다. 총수가 있는 상위 10대 기업 집단의 내부 거래액은 전체의 66.7%를 차지했고, 내부거래 비중은 공시 집단 평균보다 높았다.",
+      "image": "https://www.chosun.com/resizer/v2/GM4GGOLFGRTDGYJZMM2TQNJQHE.jpg?auth=26bf1f987e8f20f20bc8f26a4eda4432b4db766cecda5151f36fa3cd8cd438a9&smart=true&width=5131&height=2995",
+      "date": "2026-11-19T03:00:00+00:00",
+      "source": "조선일보"
     },
     {
-      "title": "\"싹싹 빌었다\" AI 커닝 자백글…이번엔 노무사 합격생",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851171&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 인공지능을 활용한 시험 부정행위와 관련한 자백글들이 온라인 게시판 등에서 잇따라 올라오고 있는 가운데, 이번엔 AI로 공인노무사 시험에 합…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241992.jpg",
-      "date": "2026-11-18T11:17:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "“코스닥 상장기업, ‘기관투자자 유입 촉진’ ‘부실기업 신속 퇴출’ 필요에 공감”",
+      "link": "https://www.donga.com/news/Economy/article/all/20261119/135053388/1",
+      "summary": "코스닥 상장기업이 코스닥시장 활성화 방안 가운데 시급하게 추진해야 할 정책으로 ‘기관투자자 유입 촉진’, ‘부실·저성과 기업 신속 퇴출’을 꼽았다는 설문조사 결과가 나왔다.IBK기업은행 경제연구소는 올해 7월 코스닥 상장기업 150곳, 비상장기업 250곳을 대상으로 실시한 ‘2026년 코스닥시장 활성화 정책 설문조사’ 결과를 19일 공개했다.조사에 따르면 코스닥 상장기업 64.7%는…",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/19/135053367.1.jpg",
+      "date": "2026-11-19T12:14:15+09:00",
+      "source": "동아일보"
     },
     {
-      "title": "\"부정의 100점보다\" 교사는 밖으로…이 학교 70년 전통",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851415&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 인천 제물포고등학교 전경인공지능을 악용한 부정행위 논란이 잇따르는 가운데, 인천 제물포고등학교가 70년째 유지 중인 '무감…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202242018.jpg",
-      "date": "2026-11-18T11:10:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "경찰, ‘리트 만점’ 이진우 수능 시험지 증거보전 요청",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1288110.html",
+      "summary": "",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/1119/20261119501657.webp",
+      "date": "",
+      "source": "한겨레"
     },
     {
-      "title": "문신 남성들 두고 '의대 신입생'?…7년 뒤 의사 풍자",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850710&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "수능 이제 딱 하루 남았죠.AI를 이용한 시험 부정행위 논란이 계속되면서 이걸 풍자하는 게시물이 온라인에 쏟아지고 있다고요?네, 최근 한 대학생…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241980.jpg",
-      "date": "2026-11-18T10:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "경남 시·군, 내년부터 축제 음식값·숙박요금 공개",
+      "link": "https://www.khan.co.kr/article/202611191241001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "경남도청. 경향신문 자료사진경남도는 도민들의 합리적인 소비를 돕고 업체의 자율적인 가격안정을 유도하려고 매주 공개하는 생활품목 가격정보에 축제 판매 음식, 숙박 요금 등 관광·여가 분야를 추가한다고 19일 밝혔다.도는 최근 물가안정 관계기관 대책회의를 열어 시군 지역축제 판매 음식 가격과 숙박시설 이용요금을 자체 홈페이지에서 내년부터 공개하도록 18개 시군···",
+      "image": "https://img.khan.co.kr/news/2026/11/19/news-p.v1.20261119.ded14edae1c54b2fb12870e6db1397ed_P1.jpg",
+      "date": "2026-11-19T12:41:00+09:00",
+      "source": "경향신문"
     },
     {
-      "title": "수능 직전 수상한 과외…리트 만점자 \"다 밝혀질 것\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850702&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 부정행위로 시끄러운 요즘이죠.세무사 시험 수석 합격자의 자수 이후 파장이 일고 있는 가운데 법학적성시험, 리트 최초 만점자를 향한 의혹도 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241937.jpg",
-      "date": "2026-11-18T10:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "전북교육청 통학차량 관리시스템 해킹…9천900여명 정보 유출",
+      "link": "https://www.yna.co.kr/view/AKR20261119087900055",
+      "summary": "(전주=연합뉴스) 백도인 기자 = 전북특별자치도교육청은 19일 \"통학차량 관리시스템이 해킹당해 9천900여명의 개인정보가 유출되는 사고가 났다\"...",
+      "image": "https://img.yna.co.kr/photo/cms/2026/02/10/38/PCM20260210000038990_P2.jpg",
+      "date": "2026-11-19T12:48:04+09:00",
+      "source": "연합뉴스"
     },
     {
-      "title": "\"한국 세무사 수석 도왔다\"…'AI 커닝 장치' 거래 포착된 곳",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851102&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 'AI 부정행위' 세무사 수석합격자인공지능을 악용한 시험 부정행위 장치가 중국어권 텔레그램 채널에서 거래되는 정황이…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241926.jpg",
-      "date": "2026-11-18T10:01:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "사라진 교육장관... 수능 당일 차관이 브리핑",
+      "link": "https://www.chosun.com/national/education/2026/11/19/WYUSUSFWF5CJ7C5W5V5RV7VY74/",
+      "summary": "19일 오전 11시 교육부는 정부세종청사에서 브리핑을 열고 “오전 8시 30분 위급재난문자 발송으로 전국 9개 시도에서 22개의 스마트폰을 적발했다”고 밝혔다.",
+      "image": "https://www.chosun.com/resizer/v2/GY4WMNJXGMYTCMTDGYYTAYTBGU.jpg?auth=c136d0fc7dba02f6651aa4736f0b3a9c62e3aecc25cac4caad73f4335daacdf3&smart=true&width=5365&height=3577",
+      "date": "2026-11-19T03:00:45+00:00",
+      "source": "조선일보"
     },
     {
-      "title": "5만 원권 받고 \"이상한데\"…남성이 찢어버린 돈 정체",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850704&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "편의점에서 물건을 사려던 60대 남성이 내민 5만 원권이 수상했다는데요.다름 아닌 장난감 5만 원권 지폐였습니다.결국 경찰에 붙잡혔는데, 황당한…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241940.jpg",
-      "date": "2026-11-18T10:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "늦게 배운 글이 시가 되다…로레알코리아·국가평생교육진흥원, 문해 학습자 지원",
+      "link": "https://www.donga.com/news/Society/article/all/20261119/135053303/2",
+      "summary": "로레알코리아가 국가평생교육진흥원과 ‘2026 전국 성인문해교육 시화전’ 특별상 수상자 초청 간담회를 열었다. 성인 문해 학습자들의 도전과 열정을 격려하고 문해교육 협력 성과와 발전 방향을 논의했다.",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/19/135053236.3.jpg",
+      "date": "2026-11-19T12:14:03+09:00",
+      "source": "동아일보"
     },
     {
-      "title": "수능날 의심 받을라…\"하루 대여섯 온다\" 수험생 공포",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850707&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "이런 가운데 수능은 단 하루 남았습니다.뿔테 대신 무테, 즉 안경테를 바꾸는 수험생들이 늘고 있는데요.스마트안경으로 오해받을 수 있다는 우려 때…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241946.jpg",
-      "date": "2026-11-18T07:42:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "3분기 순대외금융자산 2807억달러 증가…역대 최대",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1288109.html",
+      "summary": "",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/580/388/imgdb/original/2026/1119/20261119501641.webp",
+      "date": "",
+      "source": "한겨레"
     },
     {
-      "title": "\"AI가 뭔지도 모르고…\" 22년도 세무사 합격자 인증",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850703&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI 부정행위가 논란이 되며 국가자격시험의 공정성에도 의문이 제기되고 있는데요.전문직 종사자들이 열심히 준비했던 기록을 SNS에 올리며 노력을 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241941.jpg",
-      "date": "2026-11-18T10:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "걷고 맛보고 향으로 기억하는 겨울의 숲…사유원, 시즌 프로그램 운영",
+      "link": "https://www.khan.co.kr/article/202611191237001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "팔공산 자락서 산책·향기 명상·차와 미식 체험개장 5주년 맞아 예약 할인과 기념 이벤트도알바로 시자의 ‘소요헌’과 팔공산 겨울 풍경겨울은 숲의 또 다른 얼굴을 드러내는 계절이다. 무성했던 잎이 떨어진 자리에는 나무의 수형과 산의 능선이 선명해지고, 숲 사이에 놓인 건축물의 선도 한층 또렷해진다. 대구 군위군 팔공산 자락에 자리한 산지 정원 사유원이 겨울을 ···",
+      "image": "https://img.khan.co.kr/news/2026/11/19/news-p.v1.20261119.99674c2f6e9348a0b5b8b9029de16357_P1.jpeg",
+      "date": "2026-11-19T12:37:00+09:00",
+      "source": "경향신문"
     },
     {
-      "title": "'인증샷 성지' 아래서…\"내가 왕\" 아동 매춘까지?",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008851007&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 일본 오사카 도톤보리의 상징 글리코맨 광고판한국 관광객들 사이에서도 인증샷의 성지로 유명한 일본 오사카 도톤보리의 글리코 간판 주…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241982.jpg",
-      "date": "2026-11-18T09:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "[수능] 신분증 놓고 온 수험생 제주경찰 8㎞ 달려 전달",
+      "link": "https://www.yna.co.kr/view/AKR20261119087500056",
+      "summary": "（제주=연합뉴스) 고성식 기자 = 2027학년도 대학수학능력시험이 치러진 19일 시험장을 잘못 찾는 등 어려움을 겪던 수험생들이 경찰의 도움으로...",
+      "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/19/PYH2026111904380005600_P2.jpg",
+      "date": "2026-11-19T12:45:56+09:00",
+      "source": "연합뉴스"
     },
     {
-      "title": "아기 보고 멈춘 남성들…뜻밖 행동에 빵 터진 엄마",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850705&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "요즘 길거리에 은행나무가 노랗게 물들어있죠.한 엄마가 노란 은행나무길에서 아기 사진을 찍고 있었는데, 갑자기 행인들의 뜻밖의 배려를 보여줬습니다…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241942.jpg",
-      "date": "2026-11-18T10:23:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "범LG家 3세 구본현, 구속 송치...주가 조작 벌이고 해외 도피",
+      "link": "https://www.chosun.com/national/national_general/2026/11/19/5JZKRQQVLJENDNVQCT33MWH35M/",
+      "summary": "주가 조작을 벌이고 해외로 도피했던 범LG가 3세 구본현(58) 전 엑사이엔씨 대표가 구속 상태로 공소청에 넘겨졌다.",
+      "image": "https://www.chosun.com/resizer/v2/4CB5XTES3MYMCNJWPRL2OVKWOA.jpg?auth=16b26eee3083ea77503b80f5109ef4ecc9d00b50778c07eb342a82aea73899c9&smart=true&width=150&height=200",
+      "date": "2026-11-19T03:00:00+00:00",
+      "source": "조선일보"
     },
     {
-      "title": "길게 잡은 목줄에 걸려 쾅…자전거 타다 '전치 8주'",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850712&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "길게 늘어진 반려견 목줄 때문에 지나가던 자전거 운전자가 크게 다치는 일이 있었다고요?네, 50대 여성 A 씨는 지난해 10월 전남의 한 도로에…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261118/202241961.jpg",
-      "date": "2026-11-18T08:05:00+09:00",
-      "source": "SBS 뉴스"
+      "title": "‘감’ 대신 데이터로 해양폐기물 치운다…부산시, AI·드론 모니터링 시스템 구축",
+      "link": "https://www.donga.com/news/Society/article/all/20261119/135053144/2",
+      "summary": "부산시가 드론으로 촬영한 해안 영상을 인공지능(AI)으로 분석해 해양폐기물 분포를 파악하는 모니터링 시스템을 구축했다. 지방자치단체 가운데 이러한 시스템을 도입한 곳은 부산이 처음이다.해양폐기물은 해류와 바람에 따라 광범위하게 이동해 발생 위치와 분포를 가늠하기 어려웠다. 부산시 관계자는 동아닷컴과의 통화에서 “기존에는 ‘이 시기쯤이면 청소할 때가 됐다’는 식으로 경험과 감에 의존해…",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/19/135053156.3.jpg",
+      "date": "2026-11-19T12:13:52+09:00",
+      "source": "동아일보"
+    },
+    {
+      "title": "올해 수능 필적문구 “끝없이 높은 하늘로 한없이 넓은 바다로”",
+      "link": "https://www.hani.co.kr/arti/society/schooling/1288108.html",
+      "summary": "",
+      "image": "https://flexible.img.hani.co.kr/flexible/normal/720/540/imgdb/original/2026/1119/20261119501631.webp",
+      "date": "",
+      "source": "한겨레"
     }
   ],
   "international": [
     {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-      "date": "2026-11-17T21:24:35+00:00",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7a52/live/a0e1e280-e36b-11f1-99b6-a35a62fa4264.jpg",
+      "date": "2026-11-18T17:00:40+00:00",
       "source": "BBC"
     },
     {
-      "title": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
-      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
-      "summary": "The next stop on President Trump’s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
-      "image": "https://static01.nyt.com/images/2026/12/17/multimedia/17trump-summits-promo-2210-fhzg/17trump-summits-promo-2210-fhzg-mediumSquareAt3X.jpg",
-      "date": "2026-11-18T04:00:08+00:00",
+      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
+      "link": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
+      "summary": "An emerging field of psychology suggests that it’s probably not what you think — and that there might be reason for optimism.",
+      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg",
+      "date": "2026-11-18T14:16:41+00:00",
+      "source": "New York Times"
+    },
+    {
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s…",
+      "image": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=47f1524f7013cb8ff259c8847b637917",
+      "date": "2026-11-18T09:58:28+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "APEC Live: Trump, Xi and Putin to meet in historic three-way China summit",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+      "summary": "The leaders of the US, China and Russia are due to hold highly anticipated talks in Shenzhen.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe50ca-1795051722.jpg?resize=1920%2C1440",
+      "date": "2026-11-19T03:30:26+00:00",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b0a9/live/16401180-e337-11f1-9479-d17d3e98c29d.jpg",
+      "date": "2026-11-18T17:00:04+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Trump, Xi and Putin Shake Hands as Leaders Gather in China",
+      "link": "https://www.nytimes.com/live/2026/11/18/world/trump-china-asia-apec",
+      "summary": "China’s leader, Xi Jinping, earlier hugged President Trump on the tarmac as he arrived for a regional summit in Shenzhen. They are expected to hold a trilateral meeting on Thursday with President Vladimir V. Putin of…",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18trump-summits-promo6am/18trump-summits-promo6am-mediumSquareAt3X.jpg",
+      "date": "2026-11-19T03:58:59+00:00",
+      "source": "New York Times"
+    },
+    {
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "summary": "Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt under a…",
+      "image": "https://i.guim.co.uk/img/media/876babd774d84ecb98a5ee0e9eba98b14d862c89/1434_394_2316_1853/master/2316.jpg?width=140&quality=85&auto=format&fit=max&s=779e036d6f4f59b8c0421e3491fdb9bb",
+      "date": "2026-11-18T05:00:32+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795057277.jpg?resize=1200%2C675",
+      "date": "2026-11-19T03:01:27+00:00",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/67fc/live/b89f41e0-e336-11f1-9479-d17d3e98c29d.jpg",
+      "date": "2026-11-18T23:04:06+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
+      "summary": "The Israeli military said it was conducting a limited raid into territory controlled by Hamas to address a threat. The militant group accused Israel of violating the truce.",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
+      "date": "2026-11-18T20:29:31+00:00",
       "source": "New York Times"
     },
     {
@@ -304,27 +244,27 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-      "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
-      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1920%2C1440",
-      "date": "2026-11-18T03:28:41+00:00",
+      "title": "Google’s driverless car hits a roadblock",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+      "summary": "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-WAYMO-CAR-1795057022.png?resize=1920%2C1080&quality=80",
+      "date": "2026-11-19T02:57:56+00:00",
       "source": "Al Jazeera"
     },
     {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
-      "date": "2026-11-17T15:38:10+00:00",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "date": "2026-11-19T02:20:15+00:00",
       "source": "BBC"
     },
     {
-      "title": "Ecuadorean Fishermen Who Survived U.S. Boat Strike Sue Trump Administration",
-      "link": "https://www.nytimes.com/2026/11/17/world/americas/trump-us-boat-strikes-lawsuit-ecuador-fishermen.html",
-      "summary": "The first lawsuit by strike survivors targets a secretive U.S. military campaign that has killed more than 240 people.",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-boat-srikes-lawsuit-jvkc/17int-boat-srikes-lawsuit-jvkc-mediumSquareAt3X.jpg",
-      "date": "2026-11-17T18:26:38+00:00",
+      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
+      "link": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
+      "summary": "Kuwait and Bahrain said they were targeted on Wednesday, a sign of how the Middle East is stuck in limbo between peace and full-blown war.",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
+      "date": "2026-11-18T15:37:11+00:00",
       "source": "New York Times"
     },
     {
@@ -336,28 +276,20 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
-      "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-      "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316566107905-1794962097.jpg?resize=1920%2C1440",
-      "date": "2026-11-18T03:00:22+00:00",
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
+      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd95b92724-1795003833_223de5-1795004696.jpg?resize=1200%2C630&quality=80",
+      "date": "2026-11-19T02:57:19+00:00",
       "source": "Al Jazeera"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "date": "2026-11-18T01:18:18+00:00",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
+      "date": "2026-11-19T00:49:19+00:00",
       "source": "BBC"
-    },
-    {
-      "title": "Cash Hidden in Forests? Hungary Goes After Corruption Under Orban",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/hungary-magyar-orban-corruption-cash.html",
-      "summary": "The new government says $20 million worth of bank notes uncovered in farmhouses and woods are the “tip of the iceberg.” Allies of Viktor Orban, the former prime minister, call it a witch hunt.",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-hungary-corruption-wzfv/17int-hungary-corruption-wzfv-mediumSquareAt3X.jpg",
-      "date": "2026-11-17T16:00:01+00:00",
-      "source": "New York Times"
     },
     {
       "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
@@ -368,68 +300,12 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
-      "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
-      "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afcf8097b422-1794963465.jpg?resize=1920%2C1333",
-      "date": "2026-11-18T02:36:09+00:00",
+      "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+      "summary": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe3a5d4d3b-1795045981.jpg?resize=1920%2C1440",
+      "date": "2026-11-19T02:10:43+00:00",
       "source": "Al Jazeera"
-    },
-    {
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "date": "2026-11-17T22:44:15+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Prince William Brings Climate Prize to India, in an Electric Rickshaw",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/prince-william-climate-prize-india-rickshaw.html",
-      "summary": "The three-wheeler that the heir to the British throne used was made by one of 15 finalists honored for creative environmental projects.",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-india-royals-01-jgqw/17int-india-royals-01-jgqw-mediumSquareAt3X.jpg",
-      "date": "2026-11-17T18:59:25+00:00",
-      "source": "New York Times"
-    },
-    {
-      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI…",
-      "image": "https://i.guim.co.uk/img/media/6487803463c6c4e3138642f657eeb1cd90cd5acc/0_111_1078_862/master/1078.jpg?width=140&quality=85&auto=format&fit=max&s=e825c93b0c4e49e69e380953e02995c6",
-      "date": "2026-11-12T13:14:38+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Hungary on the hunt for a football hero",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
-      "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794969122.jpg?resize=1920%2C1080&quality=80",
-      "date": "2026-11-18T02:32:57+00:00",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg",
-      "date": "2026-11-17T17:19:57+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
-      "link": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
-      "summary": "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home.",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
-      "date": "2026-11-17T20:44:22+00:00",
-      "source": "New York Times"
-    },
-    {
-      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-      "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-      "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending…",
-      "image": "https://i.guim.co.uk/img/media/27bf2d45265593f1960114929744b613770ef7b3/140_0_5118_4095/master/5118.jpg?width=140&quality=85&auto=format&fit=max&s=f83ced7697a40a5bc00073ea52aa6c8e",
-      "date": "2026-11-10T15:39:26+00:00",
-      "source": "The Guardian"
     }
   ]
 };
