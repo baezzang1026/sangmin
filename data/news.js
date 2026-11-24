@@ -1,262 +1,294 @@
 window.NEWS = {
-  "updated": "2026-11-23T12:36:43+09:00",
+  "updated": "2026-11-24T15:51:45+09:00",
   "domestic": [
     {
-      "title": "[뉴스분석] 리트·수능까지 뒤흔든 ‘AI 부정행위’…흔들리는 시험 공화국에 남은 질문들",
-      "link": "https://www.khan.co.kr/article/202611230600091/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "summary": "‘AI 안경’에 2026년도 수학영역 문제지와 풀이과정이 표시되고 있다. 정지윤 선임기자2027학년도 대학수학능력시험(수능)은 위급재난문자 경보음, 올해 법학적성시험(LEET·리트) 만점자 이진우씨 사망 등이 뒤엉킨 혼란 속에 마무리됐다. 수능 당일까지 이 같은 혼란을 몰고 온 인공지능(AI) 부정행위 파문은 성적이 성공의 척도이며, 시험으로 줄 세우는 것···",
-      "image": "https://img.khan.co.kr/news/2026/11/23/news-p.v1.20261116.a0a151118f0643b6bb1a78609eabe061_P1.jpeg",
-      "date": "2026-11-22T21:00:00+00:00",
+      "title": "[속보]김병기 의원 ‘뇌물수수 등 혐의’ 불구속 송치…경찰 수사 1년2개월 만에 종료",
+      "link": "https://www.khan.co.kr/article/202611241440001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "공천헌금 의혹 등을 받는 김병기 무소속 의원이 지난달 서울 마포구 서울경찰청 공공범죄수사대에 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다. 연합뉴스경찰이 뇌물수수와 업무방해 등 혐의로 김병기 무소속 의원을 공소청에 넘겼다. 수사를 시작한 지 1년 2개월 만이다. 경찰은 김 의원의 혐의 13개 중 7개가 인정된다고 판단했다.서울경찰청 광역수사단 공공···",
+      "image": "https://img.khan.co.kr/news/2026/11/24/rcv.YNA.20261031.PYH2026103101550001300_P1.jpg",
+      "date": "2026-11-24T05:40:00+00:00",
       "source": "경향신문",
       "related": [
         {
-          "title": "[단독] “110만원이요”…AI 안경도 구식, 수능 전 이미 새 장비 거래됐나",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzckgxOGdDQzdoTzh0Qm1COEU1NTdTVzlwWE1RNVlEMThibGk1UkJwLUh3eXhEQ3gxcndnbXJIeDZnRC1VZXN1OTBhTkJlbG5Ed21wN3RudXRtUW96ckI3X2hHVFJKUGRJVUJGRlBkT2hkdw?oc=5"
-        },
-        {
-          "title": "‘불신지옥’… 믿을 시험이 하나도 없는 나라",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUlUelRZNTlzWFZKUDcwYlJ1TDNuUUhhMUNSTS12aEZYaTItQkVkS1B4V2JSMnlsejRTSWVyWFd3NW8tWlVyY0tLNGc2d3ZFSEltUl9UYUtaSFc4MHpOallGUjduT3VnaDdORHItb25wbjU5UmlrMHcyU1czQndkU0ZVQWxDcGJLZFY1NWQ5YVo?oc=5"
-        },
-        {
-          "title": "“중간고사 평균 96점, 기말고사는 48점”…시험방식 바꿨더니 벌어진 일",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Ea2dLaDhIcldpT2xXN2dGd3NYNllBYnNjVjRfTDV5Qi12NGg5NV9QTm93NW9UYWc2WjZkbjJHSkt1VUlxeVEwaUptcW1qY2tXajJNRA?oc=5"
-        }
-      ]
-    },
-    {
-      "title": "이 대통령 지지율 37.3% 2주 연속 상승…국힘 42.5%·민주 35.6%",
-      "link": "https://www.khan.co.kr/article/202611230832001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
-      "summary": "리얼미터가 아시아경제 의뢰로 지난 16~20일 전국 18세 이상 2514명 대상으로 조사한 결과, 이 대통령의 국정 수행 지지도는 지난주보다 0.9%포인트(p) 상승한 37.3%를 기록했다.이재명 대통령의 국정수행 지지율이 전주보다 0.9%포인트 소폭 상승한 37.3%로 나타났다는 여론조사 결과가 23일 나왔다.리얼미터가 아시아경제 의뢰로 지난 16~20일···",
-      "image": "https://img.khan.co.kr/news/2026/11/23/news-p.v1.20261123.de265880e0a04223b2c26ca703756ae1_P1.png",
-      "date": "2026-11-22T23:32:00+00:00",
-      "source": "경향신문",
-      "related": [
-        {
-          "title": "민주 서울 지지율 '29.4%', 30% 붕괴 … 李는 서울 '30.8%' 위태위태",
-          "source": "뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LWkU3UUk4a3V1WndWRkJOXzd2SWp3UEVlaFltN2JEeHBaeDhtRm9XYzB2VV9WUlZsbExkUm1IdGZqTjFPcUhyWE9Oc255UWNEd1hvNXhibmNOWnBnUGV4WDhLRkhWTHQ0Q0gybE5KemZYTnV5YjJVVWxCVdIBgAFBVV95cUxPeGtibVVpUTdlSGRFbE1UVWdaZ05nZF9zNlRSeWRud3JRby1iLTVKZUhFdjl0RHhRb21VWGI5VTY1a0s0YnJnRGdJNkNBaEUtelN1d1dsUUFkSzdOelhTd2RwZThYcDQ3Sm52YXlKdE9NQ29zd0FyUFhXMHlhUFlYbQ?oc=5"
-        },
-        {
-          "title": "호남서 국힘 26.2%, 대구·경북서 민주당 31.2%…李대통령 지지율 37.3% [리얼미터]",
-          "source": "경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12ZWZzanBqUV9BNlh0RnU5QktoWGw0b0NiclV2LWdfY01ubWlfSzhucVhSUlRSd3hXZ0E5ZDFtdmhVRG04emMtNkY0Y0piYm9QUVFsMjBsZE1tMkk?oc=5"
-        },
-        {
-          "title": "\"지지율 2주 연속 상승\"...코스피·수능 악재에도 긍정평가? [이슈톺]",
+          "title": "[속보] 경찰, '뇌물 혐의' 김병기 불구속 송치...수사 1년 2개월여 만",
           "source": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5ZkJRWVlELTNFeXN1SGlKbkdXYkpEVVFxSm53S1VJQ255Y1o0TTJ4ZVQ2TUU1RlBfREZ6Y1RVOXRtcGtLeEZPUklMY0xCUms4eEJDSlBnNzdGRkU0emc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zb3pTNjQ4eXJ1UFloQTlxbTFFcGtIVGhYRmpfTmdHTkN4T0wwUklFdmNTcTYzMWtlRklFanpJRHM4akhrM2ViQkRKQTQxWWdQb29qUU5iNTlhYmU2Um5DempKMW5PRGt1eDl6SHBQYw?oc=5"
+        },
+        {
+          "title": "경찰, 김병기 1년 2개월 만에 송치… 차남 취업 청탁 등",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUNDUl84bGJMQzJ0NWFDTGN1aGpfZWVqN29DcllMUFNaVU1Nc1JsTmRwaXRpeWpIV0xpa2dGSlROZ2IySlpqcm1NZTVZajVYcjNtWTNhZ25ZODFFeG1KcWRuX040VHkxVUFrQWo1c084dlM0QWtpVzZFSVI5RHY0YUR1ZEhvV1FFbVY3cWxoMlQ?oc=5"
+        },
+        {
+          "title": "[속보]김병기, 1년2개월만에 불구속 송치…'차남 특혜' 등 7개 의혹",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwT2tsSkg3WWNBbW5qZFk3ZERNS0l2UjZ2MjUyNkxuWFN3TGJaWVJlaEVpR3Bka0RqT1I1RkZZMmtONXV6cHprOUlzRkdtVG5sVDM0bUhxZC1tTmIwM3VBRldOT2zSAXhBVV95cUxQN3pnTW5uakdLVHlQSmRwaFluQS1ROUE3eUFQVERDSEc0aTRpLWNhNG9ZVXQxY05za2NSMFI2a2hPV0xHc2dQWjhXWGs2M0NzaXBXYVBJVlczajZBTUZ0MVIzdXhwSEJOYzVNOWJfSWlLOHppdk9NUmQ?oc=5"
         }
       ]
     },
     {
-      "title": "태안군, 해광호 침몰사고에 '격렬비열도의 날' 기념 음악회 취소",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mLTNZNmxKOFRBUUlzdzRJRFlRX0p4UGJLMXU3dHdjVFhaX2RUSTlIWEpibXV0TTVUNFBDQlNzS2EtZmxkUjJ5ZHJNOTQ5aDVMQWk4SWlITWh4bE0xTVlWMQ?oc=5",
-      "summary": "▲ 해광호 수중 수색해경이 충남 태안 격렬비열도 인근 바다에서 침몰한 7.93t급 어선 해광호 선체 수색을 시작했지만, 아직 실종 선…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243393.jpg",
-      "date": "2026-11-23T01:08:43+00:00",
-      "source": "뉴스1",
+      "title": "러·우 전쟁 후 러시아군 자살자 1000명 넘어···군 사망자 수 70만명 추정",
+      "link": "https://www.khan.co.kr/article/202611241537001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": "지난 8일(현지시간) 러시아 상트페테르부르크 외곽의 차르스코예 셀로에서 열린 ‘제1차 세계대전의 병사들’ 체험형 프로그램 중 20세기 초 군복을 입은 군사 역사 동호회 회원들이 군사 장비 및 무기 야외 전시회에 참석하고 있다. EPA연합뉴스2022년 러시아의 우크라이나 전면 침공 이후 스스로 목숨을 끊은 러시아 군인의 수가 1000명 이상이라는 분석이 나왔···",
+      "image": "https://img.khan.co.kr/news/2026/11/24/rcv.YNA.20261109.PEP20261109008101009_P1.jpg",
+      "date": "2026-11-24T06:37:00+00:00",
+      "source": "경향신문",
       "related": [
         {
-          "title": "태안 연락두절 어선 해경 부실 관제 논란 보도에 대해 다음과 같이 설명 드립니다.",
-          "source": "대한민국 정책브리핑",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQbFdOOGluS2RZRzlESnM0R2o2NW5hU2hTNTdyOW1FSzZ0eV9tUk1ZNmxVekF6bmExN3hpRktBemJDbThiQ01udnAxRW43bUpSZDV0ajh0YzFkajFlbTdaaGM3YkQzQVFEQmpsZFdMYw?oc=5"
+          "title": "\"우크라전서 러 군인 1천명 이상 스스로 생 마감\"",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sVFJZUGhybGF0b3dad2h6SzFmQXVqSk45THlxQUxIXzUwS09vdFlqc0tlUUplb1ppQ3BXN3FDVUhuODIzd1dIUVEzaThJMFMtc1I0MG5WSDRWVjN6a1JjMlBrNmx1eE0?oc=5"
         },
         {
-          "title": "침몰 해광호 선체 잠수수색서 실종자 못 찾아…25일 재시도",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ja3lmcWJzQlk2Wk9xOHN3RVZHaFpBYlh6WTVhVk5WY3lXNFFZMlgzemQ3dXBRWjB1bFNrMFBxTExVX0JLNTlSWVZmVHFTWjdsSDA3WmZpaXVhdkHSAWBBVV95cUxPb1hYYWF4eXBfU3NaZWhSQzNYcTJnZWpQNHFGaW9hcno4VHUzbURRZDllWlhINDZvQzhzUlF0c092eW1MblJIclYwTktGUGlFSjhlc3ZYY3JtZHp4TW5xOTY?oc=5"
-        },
-        {
-          "title": "해광호, 5일 만에 해저서 발견…선원 7명 수색 돌입",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZWxINVpaY2FHUmtSanRFXzQ1cWFKbllYQWFfWjU2ckk3QjZSX0tvd2FFaFF5alhxQmw0a2lnNm9iNTRFZEU0bTI4Rnk0TUlCd25NNXpoTm1Zd9IBX0FVX3lxTE45ckNQeVZ0RUlxZW83cEdmT2c2RVlyMzNOVE9yTjNGQTVoWDk4RWRNWFpOQUtpemZBUGdQMEpWMDlxVkViTVNrVml3a2prTnBzN2xEM3VUUjR2ZE4yRklr?oc=5"
-        }
-      ],
-      "summary_source": "SBS 뉴스"
-    },
-    {
-      "title": "미 정보국장 “’푸틴은 친구’ 트럼프 발언 적절…우크라 문제에선 아냐“",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83dVEzSHZKUm9kbDUyN0xldTdyOG5yR1l1UmFfQy1wY0lFY1ZnaWIwUnRHanVCMDdydy1GZnk0c1lBbDE3R0pEc2VlQ0N4Ymlpb0dTbXFNU2dEc2h1T2pocmswTjdhVWM?oc=5",
-      "summary": "볼로디미르 젤렌스키 우크라이나 대통령은 미국이 크리스마스 전에 러시아를 포함한 3자 평화 협상을 개최하자고 제안했다며 자신은 이에 동의했다고 밝혔다.21일(현지 시간) 미 일간 워싱턴포스트(WP)에 따르면 젤렌스키 대통령은 우크라이나 언론에 “나는 동의했다. 결과를 빨리 얻을수록 좋다”고 말했다.젤렌스키 대통령은 다음 달 14~15일 미국 플로리다주에서 열리는 주요 20개국(G20)…",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135072201.1.jpg",
-      "date": "2026-11-22T19:06:00+00:00",
-      "source": "연합뉴스TV",
-      "related": [
-        {
-          "title": "미·중·러 회담 후… 트럼프, ‘先 우크라 종전·後 이란 핵합의’ 시도",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTV9ZNGhEX1Nhc1BkTlJMbkJJSVAzclFxR2NQSXBtWVdOY1NCcm42U0hWdU9FbnhJSk9XLWtiTmRDTDktWGQ2bmd4N1JaaUdPREJObHQ1NWVISmdTUV84ckxzY3BFVm1lcFpqWFJUTVZyNzNxakdHdUhyVWlrZElnSlF6ZkJEeGtWc2hNNG41WDA3QjRtdkdtSDQ4eUhDQQ?oc=5"
-        },
-        {
-          "title": "젤렌스키 “성탄절 전 3자 종전협상 개최 동의”…美G20 계기 시사",
-          "source": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yMTNxSEhKdkxFaFBFM2h3eXR2NXdUYlBEMVpTa3d5TGVIalR0N2FjM0JhNXhjR1VERFQ4WGh2NEQtU3hGdEExcW8wdENCNk85cTJTQ3J6M1RvcTVmSWRnSjNoLUI4V3hjOHktWVI3SVVWcUnSAWZBVV95cUxPMm5oZ1FpSXVCNG9tUVNPSUZaejZINDBJM095VUoxWDdaNHdIQ0N3T2dOc1oyQlVUUVZSUjN1MGFFRVVTa0pReUpSdmFfWlNhYmxsTzNLRTliUlhKSGFpRHA3d1Q1cHc?oc=5"
-        },
-        {
-          "title": "미 정보국장, ‘푸틴은 친구’ 트럼프 발언에 “전적으로 적절했다”",
+          "title": "“우크라이나 전장서 러 군인 1천명 이상 스스로 목숨 끊어”",
           "source": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sOF9YaGpMNHkyeUFMWDRtenhOZHREcHYtYVBnS3RwYWVrSjdJNFpaWVFKQml5SlZKUi03b3RJMHVMQ05JSkUtOFA3Vm5iRDlIUDRkUFVRb3loeVU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PYkdQVkItM1NQSVJYYkhUUWFCMmpFNUl5WmYtdnFhSUZPanRYbnM1VnV0RXA4S1pQekxYTmN0dFRpd2x2ZUx4Q3d2by1lM0QzM1pyWDFvTnM3MGs?oc=5"
+        },
+        {
+          "title": "러 65세 미만 남성 사인 1위는 '전쟁'…'순환기 질환'도 제쳤다",
+          "source": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94c2luM0t2cWN6ZWlRV0haWXRkY09BbWliN0oxVThackt6TUFndTZxM05KcjRId2szbkRDbE5HME9zYU5XUHg0YmZaMmVybGFDSzZIRVgzdl96Q2tsWHVZTDE3SlLSAXhBVV95cUxOT1FiWkJaYWRQd3BuMDdpUUZmdElKVGJGUDlLcEJscy1PWHBsNk9kZjV1YU5VVllLQy0zdGtoX0Zya3R3VnA1WFh1WU54X1RocG1uVkZaS3ZoZmpCdGdEeFo3YXJ0UE5aVGo2SkJoOGtPMG1aYmFjckk?oc=5"
         }
-      ],
-      "summary_source": "동아일보"
+      ]
     },
     {
-      "title": "[속보] 코스피 5%대 급락에 매도 사이드카 발동‥4,600까지 밀려",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGMDY3V0VKOEt3TFhFdkRJTWZzWlowbGFGd0hqQ0xycE54MGZNT2NIdm16cFYyZnhhSnZySVZBY0NQbmdMa2tzOEM0d1djcVlkb2hHaU1zaVZweFE3MW9id3NUcG5palo0Vko0aHlsYTNYaTh40gF0QVVfeXFMUGFldkQxVEhrMmZ5cFNQRDdybzJvQ1RwMjBsUElZNUc0WDlrYXRULTRKX0F6czk2dU5GNkc4ejkzVTRCV0FSQjVVZ3Z3T1ZPcjZYZExVaUoxcVVVWUxTUmRVZzI4ZjhqYnlpZHp5YndyUFVaMzA?oc=5",
-      "summary": "연일 이어지는 증시 폭락장에 개인투자자들이 패닉에 빠졌다. 지난 20일 코스피가 5% 넘게 급락하며 매도 사이드카가 발동된 데 이어 23일 장중 4700선마저 무너지자 투자자들 사이에서는 “수년 치 연봉이 증발했다”는 비명이 터져 나오고 있다.23일 한국거래소에 따르면 코스피는 전 거래일보다 2.77% 내린 4734.90으로 출발한 뒤 낙폭을 키우며 오전 10시 16분 기준 4700선…",
-      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/23/135072277.1.jpg",
-      "date": "2026-11-23T02:36:35+00:00",
-      "source": "MBC 뉴스",
+      "title": "김여정, 스위스 대북제재에 반발…“평양 스위스 외교사무소 철수 검토”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfcVJSa1c2TklOS0hBanhKYXZVUVoyZFVoR1FQSkc2N1FPemk2clBVLXYzWUloWC14UGtQWXRCWEFfUFVTLUM2THFuOVBwTFVNcVh5eTdDQVE3QUNYMVhyb0dtdHRWeWU4QldMaUFCZFZMZXJ3?oc=5",
+      "summary": "(서울=연합뉴스) 하채림 기자 = 북한이 최근 대북제재에 나선 영국·스위스 등에 강경한 외교적 대응조치를 단행하거나 경고하고 나서 주목된다.",
+      "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/23/PYH2026112310220004200_P2.jpg",
+      "date": "2026-11-24T06:30:00+00:00",
+      "source": "한겨레",
       "related": [
         {
-          "title": "“연봉 6년치 증발” “증권사 앱 지웠다”…증시 폭락에 개미들 패닉",
-          "source": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OREZIUTZQU0NnSzEtLTZZaXpPZG5teGxTR2RUbk91bXh1Unl0TFRGWmQxRGFEYVh1UjFxZDM1clZ6bzlFYkdkTmRKR3Y1M1BNMWo0OFd6RTJURTRwUEdtYndhbnJnSVFKTGZlZUI2MzJ3QjRLMGfSAWZBVV95cUxOSVZkOUhSMmk3LXZrMU1xa3g0OXZMLUxfSGdEZFFSNzk4UTFiSE9LdlN5b0t1bU82azJPWUZvaEVVd09aUFhnei12ekJEc0lYOVlrZTZhWkZKVE9IOXZpYXFBd0IxYkE?oc=5"
+          "title": "북한 김여정, 스위스 제재에…\"평양 외교사무소 철수 검토\"",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55V3FMbEFiRXFzdG9SQm1vNG1FVUNaSHRaUF91ZnNtTzJVUnJNRkFzcG9NN2xLREhkamY3S3RfaWEwN1lkajE2UW9BaldyQXRzQ2ZNZVRJNnE2Tml6TDZRZVN5VVotNXM?oc=5"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "title": "北, 적극 외교행보 속 제재 부과 국가에 단호한 대응 눈길",
           "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRzB6RGI2VzE2TXRUSGtfMkhncC0wN1A0VkFEVC1oMkhCdHJ4VVhnamhlcmx2eUs5MmNFWkZQZ05vVllrV0xuXzNyUWthcURQa3BUbXVaMm01UEXSAWBBVV95cUxNZkF1RnB1dTNnSS1XZXRBWnpxWlpIVDI5cXZFUnU2YnBMZXVHQ1FmM3pwcDBDUnlPT2ktTEN5RDBqeTZjdXlObWlicS0tR1JzWkZleHZJUmlFOF9NcWtxYlI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qYnRvblc0bzUtRWtTMVBteExNUmJUU0t5Q2hmZU9EMGV0akVPNXFfTlg4T0k1YmUwUkk4bXhEU1k5em1mbEw5UHBxdm9ENG5RYzJFX2hUU1RNVTjSAWBBVV95cUxPMWtnb2RZSjBmWFp0djRFSUpnanpfSkt1YjJ1dTVfWWlybjh2bC1hOTA0VS1NS25CLXNjSzRWelN3TDVlSnlCNWRQTWx5Y1ZKOEIxbE1JNkw2SlhXNmllaWQ?oc=5"
         },
         {
-          "title": "[증시 AI충격파] \"코스피, 이미 IT버블 붕괴 수준…급락주 반등 가능성\"",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LVVJRZXl0b01sMmE0Y0JwdEQzelYwclh1WWVtTm5xajlmT3pFY1JnOFZrMjRaTXdEdGxqcUVVbTUtVjZucjNpNDBHcjBVY2dWdFg2NTd0RFlpRURCUHQ0S2tJZTlNQXkydjlJSlBuYmQ?oc=5"
+          "title": "北, 우크라 아동 강원 원산서 강제교육 '파장'..김여정, 유럽국 제재에 반발",
+          "source": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55UENDYW1QVEJ1UlNsME1SMi1qNGdVWHREYUdPVG55Q0dPY3haN0pwQXoyM09xOWd3U0FyaGNady03eUNaQXpLWTNJNzVfUHRKTy0xSU1aZlU5Zw?oc=5"
+        }
+      ],
+      "summary_source": "연합뉴스"
+    },
+    {
+      "title": "젠슨황 복귀에 코스피 5천선 안착…7%대 급등",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMl9ZVlVxYjh6YWdfYVJPUzByQzI1WUdsTU9OZ1A2T3dIR0s3V0paWTJJY0dnUjNIQVkyNmF4RWxqNXBfZFV4eUc3bnNCS25FMG9SUTVCN1I5WkMwcm9VaW44Mi1QbGxNM2g1ZnVlZHQ?oc=5",
+      "summary": "(",
+      "image": "https://img.yna.co.kr/photo/yna/YH/2026/11/24/PYH2026112415450001300_P2.jpg",
+      "date": "2026-11-24T05:11:24+00:00",
+      "source": "연합인포맥스",
+      "related": [
+        {
+          "title": "[속보] 코스피, 6%대 급등 '5천피' 탈환…코스닥 4%대↑",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zRUJOQ3ZCblZXZGFldXpWZmFjeHB3bGpJZVVvaGl3ejMzZjJ0LVI1WGhJU1hUdTg5MGhzRjZnUFBlZlJLcGNfRmFrQWd6eTVDWmxuQXZ1dTd6SjjSAWBBVV95cUxNRkRVNzBfT21kZlkxWTJhQXpseHc3c0dyX2Y0OHFOYzhNOWdtb3lrTmZscVo1eC1ackRyV3dSbmhfRkRtV2NMaFVoalZ1VWpVRlF1RF80NE5RV09GN3Zuam4?oc=5"
+        },
+        {
+          "title": "젠슨 황 공백 틈타 AI 부품주 공매도 몰렸다…숏커버링 오나 - 머니투데이",
+          "source": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04VEVDNlNRTWNyaE9XU2pGQWgzclFyakczOEM2T1AxaF9nc054YXg3OHNYUnFON0owQUFOOHd0c0E5LWdnQmViZU1vdTZGTkR3Y0xmTUJVekpMSHhzcF94dllnV09waUZ40gFuQVVfeXFMUFZWUHdWMjEwWm5iWTUzZldPazNPX2NRdnlaQVNLOERnRFNkYmtqb2dGRmFuWDdfRnl5NzFUdjBQNWJxck1jaG5ia2FZSE01Y0cyUHFsSGNSRVp1cmdkcEt5OEdtaUNGcWtkOVJRaXc?oc=5"
+        },
+        {
+          "title": "증권가, 젠슨황 복귀에 \"AI 불안 완화…변수 여전·회복엔 시간\"",
+          "source": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yVjNnS0ljc3djUWNfTnI1S2NRN2lPQlB0Y2k0QkYtLWdtQTZEM1QybE82Y1hJVEMySzJYcjlrSktPZU84TklMVlVHMnVFU3M2bFE?oc=5"
+        }
+      ],
+      "summary_source": "연합뉴스"
+    },
+    {
+      "title": "“하…” 음주운전 고경표, 다친 미화원께 연락드렸냐 물었더니",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMHkwbHZ5MXpSWlZZZm1heW0xMkUzOEhfYTkwTmQ3WHlYUGNwNW56cHZDdFBWRWViNERkSFgwWU9JdklROE8xbHo1N3JsSGttZ2UybXljN0I2Q2VIM3VxR3RZTXEydXNBZUUwZVpZenZPQQ?oc=5",
+      "summary": "음주운전 혐의로 경찰에 출석한 고경표의 모습을 두고 온라인상에서는 엇갈린 반응이 나왔다. 고경표는 지난 23일 서울 마포경찰서에 출석해 약 1시간 40분간 첫 경찰 조사를 받았다. 이날 고경표는 조사에 앞서 포토 라인에 서서 참담한 표정으로 기자의 질문에 대답했다. 고경표는 “그동안 여러분께 많은 사랑과 관심받았는데 이런 식으로 돌려드리는 것에 대해 정말 무책임한 모습이었고 죄송하다는 말…",
+      "image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/24/135081094.1.jpg",
+      "date": "2026-11-24T05:33:00+00:00",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "‘음주운전’ 배우 고경표, 첫 경찰 조사…“무책임한 모습, 죄송해”",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tclJuX0gtNUlzal9MUHN5cW5UT1BDRFplSUIwRHNqanFlT1J0QTJZbEVkZzBzSjFXdVgxZWNFa2ItSnFhWkhEMl9xR1ZIdVFRTi1Pa0V1U1dKR1E?oc=5"
+        },
+        {
+          "title": "‘음주운전’ 고경표, 부르튼 입술로 연신 “죄송”…동정 여론 설왕설래",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByMmJHUnRfZ2NkR1FXMEdmS3d6NXZCOVU2aHlObUxzaTE3dTdIQWJhakdjWm51bXppcVhZdEZEVWpPTmhqTzNhVWxWRUp5a3QtYU92OEwtTUlYdjVsR1ZmVWRBWTdNa0NJYnd1cTVFMFlEbzhUUnfSAWZBVV95cUxPNWxLTEtTSVdDcDR1VjhVcmpuUmNNdzBsVmdldF9XbHdCRzZnaW1FLXRhT2txS051WWJ5bDFPN1o3RXZGaVhUenVnd2xsQ3J2aHphYTJvcmlJSUZwNTJxeWlxclotS0E?oc=5"
+        },
+        {
+          "title": "김대범, 고경표 음주운전 후 눈물 사과에 \"그날 대리만 부르면 될 것을\"",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3FJbzRaZmY0YWZkS3BUbm8zaS10NENtY09ROG5Gd09aLWx6TFpFamw3cVVoYmZYck5nX2V6NmI0YWp3VEhoSjg3cmlEQ2s0RFZCZHlnRjJJaVFtWVBZMk44QmNTM2oxYU5VZEdhZjF3UE5ILTNqRTdRaGV6LUNEREc1SjNwWTFCVEZsdVdoSQ?oc=5"
         }
       ],
       "summary_source": "동아일보"
     },
     {
-      "title": "'텅 빈 풀이과정' 찾을 마지막 단서인데…곳곳서 \"이미 파쇄\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858402&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "AI를 활용한 수능 부정행위 의혹과 관련해 정부가 지난해 치러진 2026학년도 수능 시험지를 보존하라는 긴급 지침을 내렸지만, 이미 상당수 시험…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243417.jpg",
-      "date": "2026-11-23T12:23:00+09:00",
+      "title": "[속보] 코스피, 6%대 급등 '5천피' 탈환…코스닥 4%대↑",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861242&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "코스피, 6%대 급등 '5천피' 탈환...코스닥 4%대↑",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243810.jpg",
+      "date": "2026-11-24T15:37:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "\"단 1원도 아깝다\"던 이진우 저서…지금은 50만 원?",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858570&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "법학적성시험, LEET 만점자 고 이진우 씨의 단독 저서 '브레인 악셀'이 그의 사망 소식 후 중고거래 시장에서 정가의 수십 배를…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243399.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "\"당일 전과목 0점…최대 퇴학\" 중고교 내신에도 칼 뽑았다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860651&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 2027학년도 대학수학능력시험이 치러진 지난 19일 세종시 새롬고등학교 시험장에서 감독관이 스마트폰 등 전자기기를 수거하고 있다.…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243433.jpg",
+      "date": "2026-11-24T15:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "\"부모님이 입혀준 것 같은데\"…결국 '강제퇴실' 당했다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858501&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "2027학년도 대학수학능력시험에서 부모님이 입혀준 발열 조끼를 입은 수험생이 퇴실 조치된 사연이 전해져 안타까움을 자아내고 있습니다.JTBC에 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243380.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "\"학폭 때문에 '수시 광탈'\"…'가혹하다' 주장에 '싸늘'",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860528&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "학교폭력 전력 때문에 올해 대입 수시에서 모두 떨어진 게 가혹하다는 취지로 고3 아들을 둔 아버지가 올린 글이 논란이 되고 있습니다.아들이 저지…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243770.jpg",
+      "date": "2026-11-24T15:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "의붓딸 2명 7년간 성폭행…40대 남성 징역 35년",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858568&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 부산지법 동부지원어린 의붓딸 2명을 7년간 상습적으로 성폭행한 40대 계부에게 법원이 징역 35년의 중형을 선고했습니다.법조계에 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20260914/202222075.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "\"이제 더 이상은…\" 스스로 목숨 끊는 러시아 군인들",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860390&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 러시아군 우크라이나 전장에서 숨진 러시아 군인 가운데 1천 명 이상이 자살자라고 현지시간 23일 영국 일간 가디언이 보도했습니다.…",
+      "image": "https://img.sbs.co.kr/newimg/news/20241010/201993991.jpg",
+      "date": "2026-11-24T15:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "완주 직후 '털썩' 주저앉더니…마라톤서 또 숨졌다",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858379&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "마라톤 대회에 참가했던 10대가 결승선을 통과한 직후 쓰러져 끝내 숨졌습니다.사고가 일어난 건, 어제 오전 11시 반 전남광주 목포시 목포종합경…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243372.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "마라톤에 자동차 역주행?…술 취해 '퍽퍽' 난투극까지",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860673&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "마라톤 대회가 진행 중인 가운데, 흰색 승용차 한 대가 역주행 상태로 코스에 진입해 내달립니다.대화 참가자들은 황당하다는 듯 자리에 멈춰 섰고,…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243782.jpg",
+      "date": "2026-11-24T15:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "\"잘 놀고 가세요\" 길 알려줬는데 '순금' 벼락?",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858005&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "길 알려줬더니 '순금' 보답?한 시민이 공항에서 중국인 학생들에게 길을 안내해줬는데, 고맙다며 순금을 선물로 받았다는 사연이 화제…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243299.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "중학생 아들 숨지자 \"괴롭힘 당해서\"…공개한 카톡",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860509&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 숨진 A군이 친구와 나눈 SNS 대화제주에서 최근 졸업을 앞둔 중학교 3학년생이 학교 폭력에 시달리다 숨졌다는 주장이 제기돼 경찰…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243714.jpg",
+      "date": "2026-11-24T15:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "침몰 해광호 선체 잠수수색서 실종자 못 찾아…25일 재시도",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858760&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 해광호 수중 수색해경이 충남 태안 격렬비열도 인근 바다에서 침몰한 7.93t급 어선 해광호 선체 수색을 시작했지만, 아직 실종 선…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243393.jpg",
-      "date": "2026-11-23T11:23:00+09:00",
+      "title": "\"이럴 용기로 공부를 하지\"…수능날 '휴지 뭉치' 딱 걸렸다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860336&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "2027학년도 대학수학능력시험 시험장 화장실에 휴대전화를 숨겼다가 적발된 고등학교 3학년 수험생이 경찰 수사를 받게 됐습니다.경기도교육청 등에 …",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243721.jpg",
+      "date": "2026-11-24T14:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "시험 중인데 \"고마워\"?…수험생 부모 울린 '메시지' 정체",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858011&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "이번 수능은 AI 부정행위 우려 때문에 그 어느 때보다 어수선했죠.그런데 가슴 졸이던 수험생 부모들이 시험 진행 중 날아온 자녀의 문자 메시지를…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243315.jpg",
-      "date": "2026-11-23T12:03:00+09:00",
+      "title": "신세계백화점 폭파 협박범 잡혔다…울산 사는 중학생",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860823&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 신세계신세계백화점을 폭파하겠다는 내용의 팩스를 경찰에 보낸 협박범은 울산에 사는 중학생으로 확인됐습니다.울산 북부경찰서는 어제 오…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243747.jpg",
+      "date": "2026-11-24T14:49:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "\"차에 부딪히고 5만 원 달라\"…'리트 만점자' 끝없는 의혹",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858012&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "리트 만점자였던 고 이진우 씨에게 보험사기를 당할 뻔 했다고 주장하는 사람이 있네요?한 온라인 커뮤니티에 지난 2017년 경기도 안산에서 고 이…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243316.jpg",
-      "date": "2026-11-23T11:48:00+09:00",
+      "title": "트럼프가 올린 '복귀 축하' 게시물…'피 흘리며 속옷 치켜든 젠슨 황'",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860434&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 도널드 트럼프 대통령이 젠슨 황 엔비디아 CEO의 복귀를 축하하며 올린 사진합성물도널드 트럼프 미국 대통령이 엔비디아 젠슨 황의 …",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243703.jpg",
+      "date": "2026-11-24T12:34:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "무려 4천 달러에…조지 워싱턴의 머리카락 '한 줌'",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858308&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "▲ 1달러 지폐의 조지 워싱턴 초상미국 초대 대통령 조지 워싱턴의 머리카락 한 줌이 경매에서 4천달러, 우리 돈으로 약 538만 원에…",
-      "image": "https://img.sbs.co.kr/newimg/news/20250209/202037757.jpg",
-      "date": "2026-11-23T09:13:00+09:00",
+      "title": "'재난문자' 울렸는데 수시 합격?…\"불합리하다\" 분통",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859909&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "부정행위로 적발된 수험생이 대학 수시에는 합격했다는 주장이 나왔는데요. 이런 일이 가능한 건가요?최근 온라인 커뮤니티에는 수능 4교시 도중 위급…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243656.jpg",
+      "date": "2026-11-24T13:52:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "\"AI 시대 연 책\"…'10만 원' 찍었다는 뜻밖의 소장템",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858003&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "중고거래 플랫폼에서 웃돈.다름 아니라, 리트 만점자 고 이진우 씨가 쓴 책 이야기입니다.그가 숨진 뒤 이 씨의 저서가 중고거래 플랫폼에서 폭락은…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243297.jpg",
-      "date": "2026-11-23T10:06:00+09:00",
+      "title": "이틀간 71회 연락, 50차례 접근…전자발찌도 방치한 스토커 결국",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860370&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 스토킹 전 연인을 스토킹하다가 법원의 접근 및 연락 금지, 전자발찌 착용 명령을 잇달아 받고도 이를 모두 어긴 40대 남성에게 실…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261118/202242221.jpg",
+      "date": "2026-11-24T10:18:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "김치 떡하니 얹고 '일본풍'? '황당' 퓨전 음식 논란",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858004&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "김치 샌드위치가 일본풍?여러분 11월 22일, 어제가 김치의 날이었습니다.그런데 네덜란드 반 고흐 미술관 안에 있는 식당에서 우리 김치 요리가 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243298.jpg",
-      "date": "2026-11-23T11:48:00+09:00",
+      "title": "러시아 군용기 접근했는데 '북한 항공기'…문자 오발송, 울릉 혼란",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860249&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "▲ 울릉 삼선암러시아 군용기의 울릉도 접근으로 이른 아침 경계경보가 발령되면서 울릉지역 주민들이 놀란 가슴을 쓸어내렸습니다.경북도가 …",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243685.jpg",
+      "date": "2026-11-24T11:20:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "독감 입원 지난해 '2배'…\"백신 접종·병원 가세요\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858007&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "독감 확산세가 가팔라지면서 입원 환자와 독감 확진 이력이 있는 사망 환자 신고가 크게 늘었습니다.질병관리청에 따르면, 지난 8일부터 14일까지 …",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243303.jpg",
-      "date": "2026-11-23T07:30:00+09:00",
+      "title": "성인 되자마자 직접…이부진 아들, '엄마 성' 따랐다",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859901&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "본인 성을 어머니 성으로 바꾸는 것, 요즘 아주 드문 사례는 아닙니다.최근 이부진 호텔신라 사장의 아들인 동현 씨가 임 씨였던 자신의 성을 어머…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243638.jpg",
+      "date": "2026-11-24T12:21:00+09:00",
       "source": "SBS 뉴스"
     },
     {
-      "title": "혼자 수백 번 왔다갔다…전기차의 이상한 움직임",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858017&plink=RSSLINK&cooper=RSSREADER",
-      "summary": "운전할 때는 괜찮은데 주차만큼은 유독 어렵게 느끼는 분들 있으실 텐데요.이럴 때 자동주차 기능이 반가울 법도 하지만, 아직은 주차 기술이 완벽해…",
-      "image": "https://img.sbs.co.kr/newimg/news/20261123/202243338.jpg",
-      "date": "2026-11-23T10:40:00+09:00",
+      "title": "공인노무사 시험 무더기 '0점' 처리…이유는 '이름'?",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859900&plink=RSSLINK&cooper=RSSREADER",
+      "summary": "올해 공인노무사 2차 시험에서 수험생 40명이 0점 처리되었습니다.다름 아니라 시험지 등에 이름을 적었기 때문인데요.자세한 내용 함께 살펴보시죠…",
+      "image": "https://img.sbs.co.kr/newimg/news/20261124/202243637.jpg",
+      "date": "2026-11-24T11:44:00+09:00",
       "source": "SBS 뉴스"
     }
   ],
   "international": [
     {
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "date": "2026-11-23T00:50:35+00:00",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "date": "2026-11-24T04:36:31+00:00",
       "source": "BBC"
     },
     {
-      "title": "China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal",
-      "link": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-      "summary": "China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-china-mss-01-bjfp/22int-china-mss-01-bjfp-mediumSquareAt3X-v2.jpg",
-      "date": "2026-11-22T11:03:04+00:00",
+      "title": "Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?",
+      "link": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+      "summary": "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security. Military analysts and opposition leaders say he’s prioritizing his own interests.",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-israel-war-photo1-kfjb/23int-israel-war-photo1-kfjb-mediumSquareAt3X.jpg",
+      "date": "2026-11-23T18:54:42+00:00",
+      "source": "New York Times"
+    },
+    {
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday,…",
+      "image": "https://i.guim.co.uk/img/media/cfb76673617a9119c98c92a444bacae6ca40eb5c/404_0_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=8c0889c3bdc2c172aa530662154d2f6c",
+      "date": "2026-11-23T11:42:51+00:00",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
+      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316566107905-1794962097.jpg?resize=1920%2C1440",
+      "date": "2026-11-24T06:24:25+00:00",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "date": "2026-11-23T23:16:08+00:00",
+      "source": "BBC"
+    },
+    {
+      "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+      "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+      "summary": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
+      "date": "2026-11-23T18:05:31+00:00",
       "source": "New York Times"
     },
     {
@@ -268,27 +300,27 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "Indonesian police remove 24 body bags from factory fire site",
-      "link": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
-      "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T055534Z_1869754539_RC2TSOAY5FGD_RTRMADP_3_INDONESIA-FIRE-1795398550.jpg?resize=1920%2C1440",
-      "date": "2026-11-23T02:35:42+00:00",
+      "title": "Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
+      "summary": "Europe's premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?resize=1200%2C630&quality=80",
+      "date": "2026-11-24T05:56:41+00:00",
       "source": "Al Jazeera"
     },
     {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
-      "date": "2026-11-22T18:57:24+00:00",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg",
+      "date": "2026-11-24T02:15:59+00:00",
       "source": "BBC"
     },
     {
-      "title": "Canada’s Boreal Forest Is Reshaped by Logging and Climate Change",
-      "link": "https://www.nytimes.com/2026/11/22/world/canada/canada-boreal-forest-degradation-deforestation-logging.html",
-      "summary": "Canada has framed the preservation of its boreal forest as a model for the world, but commercial logging combined with climate change is inflicting severe damage.",
-      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/00int-canada-forests01-photo-zvkl/00int-canada-forests01-photo-zvkl-mediumSquareAt3X.jpg",
-      "date": "2026-11-22T12:29:34+00:00",
+      "title": "They Were Too Old to Enlist, but Not to Fight. Meet the Steppe Wolves of Ukraine.",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+      "summary": "When the military refused to let them sign up, a band of aging men found their own way to wage war against Russia.",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-grandpas-01-jqbt/23int-ukraine-grandpas-01-jqbt-mediumSquareAt3X.jpg",
+      "date": "2026-11-23T13:53:33+00:00",
       "source": "New York Times"
     },
     {
@@ -300,27 +332,27 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-      "link": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-      "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=1920%2C1440",
-      "date": "2026-11-23T02:23:13+00:00",
+      "title": "Pennsylvania reports ninth measles death in ongoing state outbreak",
+      "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
+      "summary": "CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04fd12611e1-1795489042.jpg?resize=1920%2C1440",
+      "date": "2026-11-24T04:59:13+00:00",
       "source": "Al Jazeera"
     },
     {
-      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg",
-      "date": "2026-11-23T02:37:02+00:00",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+      "date": "2026-11-24T05:33:07+00:00",
       "source": "BBC"
     },
     {
-      "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
-      "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
-      "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-cartel-ticktock-photo1-bpwm/22int-cartel-ticktock-photo1-bpwm-mediumSquareAt3X.jpg",
-      "date": "2026-11-22T01:56:16+00:00",
+      "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+      "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
+      "date": "2026-11-23T19:19:23+00:00",
       "source": "New York Times"
     },
     {
@@ -332,27 +364,27 @@ window.NEWS = {
       "source": "The Guardian"
     },
     {
-      "title": "‘Extremely concerning’: Inside a US Army plan to detonate Iowa lead stores",
-      "link": "https://www.aljazeera.com/news/2026/11/23/extremely-concerning-inside-a-us-army-plan-to-detonate-iowa-lead-stores?traffic_source=rss",
-      "summary": "Army plans to invoke emergency powers to detonate 4 tonnes of lead azide in an Iowa town, despite a court-ordered stay.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b017ad0c4d6-1795259088.jpg?resize=1920%2C1440",
-      "date": "2026-11-23T02:09:15+00:00",
+      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795495915.jpg?resize=1920%2C1080&quality=80",
+      "date": "2026-11-24T04:52:06+00:00",
       "source": "Al Jazeera"
     },
     {
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
-      "date": "2026-11-23T00:08:00+00:00",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+      "date": "2026-11-23T20:48:35+00:00",
       "source": "BBC"
     },
     {
-      "title": "South Korea’s Education Minister Resigns Over Anti-A.I. Cheating Rules",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/korea-csat-exam-ai-cheating.html",
-      "summary": "Two days before South Korea’s college entrance exam, new measures were announced, including loud phone alerts and eyeglass inspections. Public backlash came fast.",
-      "image": "https://static01.nyt.com/images/2026/11/22/multimedia/22skorea-exam-wfpv/22skorea-exam-wfpv-mediumSquareAt3X.jpg",
-      "date": "2026-11-22T08:35:05+00:00",
+      "title": "Ukraine Attack Off Coast of Libya Shows Reach of Its Naval Drones",
+      "link": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+      "summary": "President Volodymyr Zelensky said that Ukrainian drones had sunk a corvette and hit a dry cargo vessel, in attacks that involved special operations forces.",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-ukraine-libya-01-wljg/23int-ukraine-libya-01-wljg-mediumSquareAt3X.jpg",
+      "date": "2026-11-23T18:09:46+00:00",
       "source": "New York Times"
     },
     {
@@ -361,38 +393,6 @@ window.NEWS = {
       "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds One in four women around the world have no power of consent if their husband or partner demands sex,…",
       "image": "https://i.guim.co.uk/img/media/91c39e6279d80734110ea1274bb82ba750178aca/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=e6d08589972906e0a23904745fa60bc8",
       "date": "2026-11-19T04:00:16+00:00",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
-      "link": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
-      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-05T130309Z_991038335_RC2NFJAH27US_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TUSK-1795394679.jpg?resize=1920%2C1440",
-      "date": "2026-11-23T01:53:23+00:00",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-      "date": "2026-11-22T22:49:10+00:00",
-      "source": "BBC"
-    },
-    {
-      "title": "Taiwanese Comedian Targeted for Mocking Xi Jinping Is Drawing Sellout Crowds",
-      "link": "https://www.nytimes.com/2026/11/22/world/asia/china-taiwan-comedian-xi-jinping.html",
-      "summary": "“Xi Jinping is my comedy muse,” said Huang Yi-hao, who survived a car crash the authorities say was meant to silence him.",
-      "image": "https://static01.nyt.com/images/2026/11/08/multimedia/00int-taiwan-comedian-profile-01-qtzc/00int-taiwan-comedian-profile-01-qtzc-mediumSquareAt3X.jpg",
-      "date": "2026-11-22T06:58:18+00:00",
-      "source": "New York Times"
-    },
-    {
-      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
-      "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-      "summary": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s…",
-      "image": "https://i.guim.co.uk/img/media/a03f114d715bb74ab2b82e63a222dbf68b76637b/194_0_2161_1729/master/2161.jpg?width=140&quality=85&auto=format&fit=max&s=47f1524f7013cb8ff259c8847b637917",
-      "date": "2026-11-18T09:58:28+00:00",
       "source": "The Guardian"
     }
   ]
